@@ -5,7 +5,7 @@ Esta es una prueba que Romina está haciendo para investigar como utilizar **Obs
 ## Grupo 2
 
 * Romina <romiayalacontacto@gmail.com>
-* Boris <>
+* Boris <boris.alvarez.jimenez@gmail.com>
 * 
 
 
