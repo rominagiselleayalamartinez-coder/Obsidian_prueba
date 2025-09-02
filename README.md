@@ -6,7 +6,7 @@ Esta es una prueba que Romina está haciendo para investigar como utilizar **Obs
 
 * Romina <romiayalacontacto@gmail.com>
 * Boris <boris.alvarez.jimenez@gmail.com>
-* 
+* Mariana <marianabedoyabarrero@gmail.com>
 
 
 Última modificación Romina 202509012024 
