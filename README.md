@@ -8,5 +8,7 @@ Esta es una prueba que Romina está haciendo para investigar como utilizar **Obs
 * Boris <boris.alvarez.jimenez@gmail.com>
 * Mariana <marianabedoyabarrero@gmail.com>
 * Vidal <viloafer029@gmail.com>
+* Sergio Duarte <sergioduarteloza@gmail.com>
+  
 
 Última modificación Romina 202509012024 
