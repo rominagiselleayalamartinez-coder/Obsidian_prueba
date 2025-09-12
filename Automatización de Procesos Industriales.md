@@ -3,5 +3,5 @@
 
 **Sistemas SCADA.**
 
-**sensores industriales.**
+**Sensores Industriales.**
 
