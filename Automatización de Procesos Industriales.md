@@ -1,4 +1,7 @@
 
-==Controladores lógicos programables (PLC),
-sistemas SCADA, sensores industriales.==
+**Controladores lógicos programables (PLC)**
+
+**Sistemas SCADA.**
+
+**sensores industriales.**
 
