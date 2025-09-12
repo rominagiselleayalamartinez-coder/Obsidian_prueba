@@ -12,12 +12,14 @@ OW Wight
 
 Manufacturing resource planning: MRP II: unlocking America's productivity potential
 
-**Artículo científico que hable del tema**
+**Artículos científico que hable del tema**
 
-https://pure.tue.nl/ws/portalfiles/portal/4396167/334998.pdf
+!Articulo 1.pdf
+!Articulo 2.pdf
+!Articulo 3.pdf
 
 **¿Cual es la evolución a lo largo del tiempo del tema?**
 
 MRP II
 
-
+!NGRAM.jpg
