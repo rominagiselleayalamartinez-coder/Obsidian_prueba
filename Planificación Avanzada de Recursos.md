@@ -14,11 +14,11 @@ Manufacturing resource planning: MRP II: unlocking America's productivity potent
 
 **Artículos científico que hable del tema**
 
-<Articulo 1.pdf>
+<[Articulo 1.pdf](https://github.com/jorgemercadonogales639-ops/repositorio/blob/main/Articulo%202.pdf)>
 
-<Articulo 2.pdf>
+<[Articulo 2.pdf](https://github.com/jorgemercadonogales639-ops/repositorio/blob/main/Articulo%201.pdf)>
 
-<Articulo 3.pdf>
+<[Articulo 3.pdf](https://github.com/jorgemercadonogales639-ops/repositorio/blob/main/Articulo%203.pdf)>
 
 
 **¿Cual es la evolución a lo largo del tiempo del tema?**
