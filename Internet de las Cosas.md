@@ -23,6 +23,8 @@ Además, fue traducido a múltiples idiomas, lo que indica un alcance global sig
 
 ![[Pasted image 20250911222249.jpg]]
 
+https://www.maciejkranz.com/wp-content/uploads/2016/11/BUILDING-THE-INTERNET-OF-THINGS-BOOK_o-1476x1600.png
+
 
 -            **Artículo científico que hable del tema**
 
