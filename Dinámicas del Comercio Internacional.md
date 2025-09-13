@@ -21,6 +21,10 @@ Paul Krugman revolucionó la teoría del comercio internacional al introducir co
 
 “International Economics” de Paul Krugman y Maurice Obstfeld. En este libro se explica cómo los países se benefician del comercio y la globalización, analizando especialización, flujos de capital, políticas comerciales y comercio intraindustrial, con un enfoque práctico para entender la economía mundial.
 
+Según Publish or Perish, este libro ha alcanzado alrededor de 4466 citas, 186.06 por año, lo que lo convierte en uno de los libros más leídos y por ende más citados.
+
+Link: https://www.academia.edu/39623124/Econom%C3%ADa_internacional_Teor%C3%ADa_y_pol%C3%ADtica
+
 
 **ARTÍCULO CIENTÍFICO**
 
@@ -32,11 +36,14 @@ El artículo analiza cómo la globalización, las políticas proteccionistas y l
 
 Este artículo resulta muy valioso porque conecta la teoría del comercio internacional con situaciones actuales, mostrando cómo las dinámicas cambian según las políticas y el contexto económico. Destaca que el comercio internacional no es estático, sino que está en constante transformación, y que los países que comprenden estas dinámicas pueden aprovechar mejor sus ventajas y reducir riesgos. En mi opinión, proporciona una visión clara de la importancia de la adaptación estratégica en el comercio global.
 
+Link: https://revistainvestigacionacademicasinfrontera.unison.mx/index.php/RDIASF/article/view/622/781
+
 
 **CUÁL ES LA EVOLUCIÓN A LO LARGO DEL TEMA?**
 
 <img width="1769" height="614" alt="image" src="https://github.com/user-attachments/assets/9ec421c2-f09f-4ae4-8045-801f16d8d26f" />
-Ha tenido su pico más alto en 2004, sin embargo, hasta 2022 no hah logrado superar el pico de ese año.
+
+Ha tenido su pico más alto en 2004, sin embargo, hasta 2022 no ha logrado superar el pico de ese año.
 
 **QUÉ IMPACTOS PUEDE TENER ESTE TEMA EN BOLIVIA?**
 
