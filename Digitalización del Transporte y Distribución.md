@@ -1,9 +1,10 @@
 
-==Optimización de rutas, plataformas TMS,
-blockchain para trazabilidad.==
+Trabajo realizado por 
+SERGIO ARMIJO CABRERIZO 
 
 
 [[Optimización de Rutas]]
+
 Según la aplicación Harzing´s Pulish or Perish el libro mas citado en trabajos e investigaciones científicas es "Network Flows"
 
 ## Libro mas vendido y consultado 
