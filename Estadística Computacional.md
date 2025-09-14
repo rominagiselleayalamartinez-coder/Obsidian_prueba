@@ -1,4 +1,4 @@
-### Estadística Computacional
+# Estadística Computacional
 ==Simulación Monte Carlo, técnicas de remuestreo (Bootstrap), programación estadística con R/Python
 
 **Nombre:** Romina Giselle Ayala Martinez  
@@ -9,7 +9,7 @@
 ## 1. Autor destacado
 - [ ] Investigar nombre del autor más relevante
 - [ ] Escribir breve descripción de su aporte 
-
+# bkdbhjd
 ---
 
 ## 2. Libro más leído
