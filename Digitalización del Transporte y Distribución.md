@@ -150,10 +150,181 @@ Creo que todo lo que vimos sobre la optimización de rutas es súper útil para 
 
 Pienso que en el libro s _network flows_ también puede servir mucho para las empresas en Bolivia, porque les da una forma clara de organizar mejor sus procesos de transporte, distribución y hasta producción. Por ejemplo, con los modelos de costo mínimo una empresa que manda mercadería desde La Paz, Santa Cruz o Cochabamba podría decidir cómo repartir sus envíos de la manera más barata sin perder tiempo ni dinero en rutas innecesarias. Los problemas de ruta más corta ayudan a planificar los recorridos de los camiones en ciudades donde el tráfico o el mal estado de las calles pueden hacer que un viaje sea más caro de lo pensado, estas técnicas ayudan a aprovechar mejor los recursos y a reducir pérdidas. 
 
-
-
-
-
 [[Plataformas TMS]]
+Según lo investigado uno de los Mas leídos es
+<img width="624" height="763" alt="Plataformas T" src="https://github.com/user-attachments/assets/ec580f68-6283-490e-a3a8-3366c77739cc" />
+En el libro Transportation: A Global Supply Chain Perspective de John J. Coyle, C. John Langley Jr., Robert A. Novack, Brian J. Gibson
+
+Trata TMS de forma explícita el capitulo 3 "TRANSPORTATION TECHNOLOGY AND SYSTEMS" 
+“**Next Generation TMS**”
+
+**Sistemas de Gestión del Transporte (TMS)** son plataformas tecnológicas que permiten planificar, ejecutar y controlar de manera más eficiente el movimiento de mercancías dentro de la cadena de suministro. Estas herramientas no solo optimizan rutas, consolidan cargas y reducen costos, sino que también mejoran la visibilidad y el control de los envíos en tiempo real. Además, el libro muestra cómo las **apps móviles tipo Uber Freight** y los **modelos de precios dinámicos** están transformando la contratación del transporte al hacerla más ágil y transparente, eliminando intermediarios y ajustando tarifas según la demanda. Si bien los beneficios son claros en términos de eficiencia, reducción de errores y ahorros económicos, su adopción requiere superar desafíos como altos costos de implementación, integración entre sistemas y la necesidad de cambios culturales dentro de las empresas.
+
+- Un **TMS** es una plataforma de software que ayuda a planear, ejecutar y evaluar el transporte.
+- Funciona como el “cerebro” de las operaciones de transporte, conectando cargadores, carriers, almacenes y clientes.
+- **LasCapacidades principales que tienen los TMS**
+    - **Planificación**: selección de rutas, carriers y modos de transporte; optimización de cargas.
+    - **Ejecución**: tendering (asignación de cargas a transportistas), visibilidad en tránsito, generación de documentos, programación de citas.
+    - **Analítica**: control de costos, auditoría de facturas de flete, monitoreo de KPIs, dashboards de desempeño.
+- **Beneficios esperados**
+    - Reducción de costos de transporte (≈10–15%).
+    - Mayor visibilidad y control de envíos.
+    - Mejor cumplimiento contractual y nivel de servicio.
+    - Rápido ROI gracias a soluciones en la nube.
+    - Integración con WMS, ERP y sistemas de planeación.
+- **Tendencias (“Next Generation TMS”)**
+    - Migración a **plataformas cloud**.
+    - Uso de **analytics avanzados** y **machine learning**.
+    - Conexión en tiempo real con carriers vía APIs.
+    - Enfoque en **control towers** para visibilidad global.
+| **Plataforma / Proveedor**                 | **Funcionalidad destacada**                                   | **Efectividad**                                       | **Problema que resuelve**                                      |
+| ------------------------------------------ | ------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------- |
+| **Oracle Transportation Management (OTM)** | Gestión global de transporte multimodal, integración con ERP. | Altamente escalable, usado por grandes corporaciones. | Complejidad en redes globales; optimización costo–servicio.    |
+| **SAP Transportation Management (SAP TM)** | Integración profunda con SAP ERP y SCM.                       | Fuerte en compañías que ya usan SAP.                  | Visibilidad unificada y automatización de procesos.            |
+| **MercuryGate TMS**                        | Flexibilidad en gestión de cargas TL/LTL y multimodal.        | Eficaz en medianas y grandes empresas.                | Control de costos, tendering eficiente.                        |
+| **JDA / Blue Yonder TMS**                  | Optimización avanzada de ruteo y planeación.                  | Potente en analytics.                                 | Selección de rutas/carriers de manera óptima.                  |
+| **Transplace (ahora Uber Freight)**        | Plataforma 3PL + TMS con visibilidad y analítica.             | Muy efectiva en outsourcing de transporte.            | Reduce riesgos y simplifica la gestión con múltiples carriers. |
+| **Descartes Systems**                      | Fuerte en visibilidad y cumplimiento regulatorio.             | Ampliamente usado en comercio internacional.          | Cumplimiento normativo y documentación global.                 |
+## Artículo científico que hablan del tema 
+
+Podemos citar
+
+1 **GESTIÓN DE ALMACENES Y TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN (TIC)**
+
+en el articulo menciona los **sistemas y tecnologias aplicadas
+
+- **WMS (Warehouse Management System):** Administra inventarios, recepción, almacenamiento, pedidos y cobros.
+- **LMS (Labor Management System):** Optimiza la productividad del personal.
+- **YMS (Yard Management System):** Control de patios y muelles.
+- **Código de barras:** Identificación y trazabilidad básica.
+- **RFID:** Identificación automática por radiofrecuencia, con mayor alcance que el código de barras.
+- **Picking to Light / Voice:** Preparación de pedidos asistida por luces o voz.
+- **SCE (Supply Chain Execution):** Integra TMS, LMS y WMS para optimizar flujos logísticos.
+
+También menciona los **Beneficios esperados de estas tecnologías:**
+
+- Reducción de costos.
+- Mejora de la trazabilidad y coordinación.
+- Productividad y cumplimiento de pedidos a tiempo.
+- Uso óptimo de recursos y mayor rentabilidad.
+[TMS.pdf](https://github.com/user-attachments/files/22323789/TMS.pdf)
+## Evolución del tema 
+
+Segun Google Gram el tema se aborda desde 1970 y tiene un aumento significativo entre 1995 y los 2000
+<img width="1758" height="786" alt="TMS GGRAM" src="https://github.com/user-attachments/assets/0b56fc1d-e60c-4c00-a4c4-7d49f8826dcb" />
+## Comentarios 
+
+
+Creo que todo lo visto hoy sobre los TMS tiene una aplicación muy directa para las empresas en Bolivia, especialmente porque muchas todavía gestionan el transporte de forma manual o con sistemas poco integrados. Un TMS podría ayudarles a reducir costos logísticos, que en nuestro país suelen ser altos por la infraestructura limitada y la dispersión geográfica de los mercados. Además, el uso de plataformas móviles de reserva de carga o modelos de precios dinámicos permitiría aprovechar mejor la capacidad de los transportistas locales, dándoles más visibilidad y acceso a clientes sin depender tanto de intermediarios. se que muchas empresas grandes en Bolivia utiliza algún sistema pero muchas aun no se lanzan a mejorar por lo que me parece una gran inversión y  para la industria en Bolivia 
+
 [[Blockchain para trazabilidad]]
+
+Según lo investigado este tema es bastante moderno y uno de los libros que habla del tema es "Blockchain and the supply chain"
+<img width="307" height="462" alt="Libro Blockchain" src="https://github.com/user-attachments/assets/1b9f0458-58a4-476c-8037-30818082a81f" />
+El libro explica la evolución de la cadena de suministro global: más globalización, más complejidad, mayores expectativas del consumidor (rapidez, transparencia, sustentabilidad)
+
+Identifica los retos modernos: rupturas recientes (ej. COVID-19) muestran fragilidad en flujos físicos, de información y financieros. Problemas como retrasos, falta de visibilidad, dependencia de intermediarios, burocracia documental.
+
+- Un **marco estratégico** para decidir si adoptar blockchain: identificar puntos de dolor (ineficiencias, falta de transparencia, pérdidas, litigios, devoluciones) y medir métricas actuales. Luego evaluar si blockchain aporta mejora clara frente a soluciones alternativas. 
+- Cómo seleccionar el tipo de blockchain (pública, permissionada, híbrida) según necesidades de privacidad, rendimiento, coste y escala. 
+- Integración con otros sistemas: ERP, sistemas de gestión de almacén, sensores IoT, plataformas de datos, análisis. Importancia de captura de datos correcta (garantizar integridad desde origen).
+- 
+Aunque no siempre el libro revela todos los detalles técnicos internos, el ejemplo de _Maersk & IBM / TradeLens_ es uno de los casos más desarrollados y sirve para ilustrar cómo se conjugan varios elementos:
+
+- **Objetivo**: reducir el papeleo, mejorar visibilidad de contenedores en tránsito, agilizar los documentos aduaneros y de envío.
+
+- **Arquitectura**: basado en _blockchain permissionada_ (hyperledger fabric). Los nodos los operan navieras, puertos, agentes de carga, autoridades aduaneras. No es una red abierta.
+
+- **Datos registrados**: ubicación del contenedor, estado documental (factura, certificado de origen, conocimiento de embarque), eventos en tránsito (entrada/salida de puertos, escaneo de sensores si hay condiciones especiales), avisos de discrepancias.
+
+- **Integración**: con los sistemas de los puertos y las aduanas; interfaz digital para los participantes; APIs/portales para ver el estatus; uso de sensores IoT para condiciones ambientales en ciertos tipos de carga refrigerada.
+
+- **Beneficios observados**: reducción de tiempos de despacho, menor costo operativo por trámites manuales, mejor predicción de llegada de contenedores, mayor transparencia entre actores, menos demoras sanitarias/regulatorias.
+
+- **Limitaciones encontradas**: adopción desigual de participantes, resistencia al cambio, problemas de interoperabilidad, costos iniciales de sensores, infraestructura de red en puertos o rutas remotas, complejidad de escalar para muchas rutas internacionales.
+## ¿Qué es Blockchain?
+
+- **Definición**: Es una tecnología de registro distribuido (Distributed Ledger Technology, DLT) que almacena transacciones en bloques enlazados criptográficamente, creando un historial inmutable.
+
+- **Características clave** :
+    - Descentralización (no hay una sola autoridad de control).    
+    - Inmutabilidad (los datos no pueden alterarse sin consenso).
+    - Autenticación y sellado temporal (timestamping).
+    - Trazabilidad de transacciones.
+- **Tipos**:
+    - **Públicas** (ej. Bitcoin, Ethereum).
+    - **Permisionadas** (ej. Hyperledger, R3 Corda).
+    - **Híbridas** según el nivel de acceso y gobernanza .
+
+## ¿Cómo funciona?
+
+- Cada transacción es validada por consenso entre nodos.
+
+- Una vez aprobada, se añade a un bloque que se enlaza al anterior mediante hash criptográfico .
+
+- Los contratos inteligentes (smart contracts) permiten ejecutar automáticamente acuerdos cuando se cumplen condiciones .
+
+- Comparado con sistemas tradicionales, blockchain aporta:
+    - Mayor transparencia.
+    - Eliminación de intermediarios en validación de datos.
+    - Reducción de errores y fraudes en la gestión documental .
+## Aplicaciones en Supply Chain e International Trade
+
+El estudio analiza **ocho casos representativos** :
+
+1. **Mercados descentralizados** (comercio P2P).
+2. **Cartas de crédito basadas en blockchain** (trade finance).
+3. **Pagos transfronterizos instantáneos**.
+4. **Seguros marítimos** con datos compartidos en tiempo real.
+5. **Trazabilidad y documentos de embarque** (ej. TradeLens de Maersk e IBM) .
+6. **Certificados de origen electrónicos**.
+7. **Prueba de autenticidad** de bienes de lujo y farmacéuticos .
+8. **Trazabilidad de origen ético en alimentos** (ej. cadena de suministro sostenible).
+
+## Artículo científico que hablan del tema 
+1. Blockchain technology and its relationships to sustainable supply chain management
+2. Sistema de trazabilidad de la cadena de suministro agroalimentario para cooperativas de frutas y hortalizas basado en la tecnología Blockchain
+[Blockchain technology.pdf](https://github.com/user-attachments/files/22323988/Blockchain.technology.pdf)
+[Sistema detrazabilidad.pdf](https://github.com/user-attachments/files/22323989/Sistema.detrazabilidad.pdf)
+utiliza **tecnología blockchain** para mejorar la transparencia y la confianza entre productores, distribuidores y consumidores.
+**Contexto y problema:**  
+La creciente demanda de información sobre el origen y calidad de los alimentos, sumada a casos de fraude y certificaciones poco fiables, ha reducido la confianza de los consumidores. Las cooperativas, formadas por pequeños agricultores, necesitan demostrar el origen y las buenas prácticas de sus productos para ser competitivas en un mercado global.
+
+**Propuesta tecnológica:**  
+El estudio desarrolla una **Prueba de Concepto (PoC)** en una cooperativa de berries del sur de España. Mediante **Hyperledger Fabric** y **contratos inteligentes**, se registra en blockchain cada etapa del proceso: cultivo, recolección, manipulación, almacenamiento, transporte y venta. Sensores IoT, códigos QR/RFID y datos del ERP de la cooperativa alimentan la cadena de bloques, generando un **certificado digital único e inmutable** para cada lote de fruta.
+
+**Ventajas del sistema:**
+
+- **Transparencia y confianza:** todos los participantes (productores, certificadores, logística, retail y consumidores) pueden verificar en tiempo real la información del producto.
+
+- **Seguridad y eficiencia:** los datos son inalterables y auditables, reducen fraudes y costos al eliminar intermediarios.
+
+- **Competitividad:** mejora la reputación de las cooperativas y facilita su internacionalización.
+
+- **Acceso público:** el consumidor puede escanear un código y conocer origen, fechas, tratamientos y condiciones de producción.
+
+
+**Limitaciones y retos:**
+
+- Escalabilidad: la prueba abarca pocos datos y un solo contrato inteligente; se requieren más pruebas para grandes volúmenes.
+
+- Privacidad y regulación: compatibilidad con el Reglamento de Protección de Datos (GDPR) europeo.
+
+- Fiabilidad de los datos iniciales: la tecnología no evita que alguien ingrese información falsa, aunque el uso de sensores reduce riesgos.
+
+- Costos y conocimiento técnico: muchas cooperativas son pequeñas y necesitan apoyo para adoptar la solución.
+
+## Evolución del tema 
+
+El tema es muy nuevo recién se empieza a tocar desde el 2015 aproximadamente
+<img width="1651" height="619" alt="Blockchain time" src="https://github.com/user-attachments/assets/9d8dff94-2531-48af-970c-083cc03803c4" />
+## Comentarios 
+
+La adopción de blockchain en las cadenas de suministro bolivianas representa una oportunidad estratégica para aumentar la competitividad, la sostenibilidad y la confianza de los mercados internacionales. Sectores clave como la agroindustria, la minería y la exportación de alimentos enfrentan hoy problemas de trazabilidad, altos costos logísticos y creciente presión de clientes que exigen certificaciones ambientales y sociales. La tecnología blockchain, con sus registros inmutables y contratos inteligentes, permite a productores y exportadores bolivianos garantizar el origen de productos como café de altura, cacao, quinua o carne, reducir fraudes y acelerar procesos de control sanitario, a la vez que mide huellas de carbono, consumo de agua y energía, requisitos cada vez más valorados en Europa y Norteamérica. El uso de sensores IoT integrados en blockchain facilitaría el monitoreo del transporte y la optimización de rutas en una geografía compleja, disminuyendo pérdidas poscosecha y costos de distribución; además, los smart contracts automatizarían pagos a pequeños productores y reducirían la dependencia de intermediarios financieros, favoreciendo la inclusión en zonas rurales. Sin embargo, para materializar estos beneficios Bolivia debe superar barreras importantes: escasa infraestructura digital en áreas rurales, falta de capital y de talento especializado en cooperativas y pymes, cultura de poca transparencia en el intercambio de datos y ausencia de un marco legal claro para contratos inteligentes y protección de datos. Para avanzar, se recomienda impulsar proyectos piloto en productos de alto valor de exportación, invertir en conectividad y capacitación técnica, crear estándares nacionales compatibles con normas internacionales de trazabilidad y sostenibilidad, y vincular estas iniciativas a fondos de financiamiento verde. Con el apoyo del Estado, la academia y el sector privado, blockchain puede convertirse no solo en una innovación tecnológica, sino en un instrumento de desarrollo que permita a Bolivia asegurar la calidad de sus productos, cumplir metas de sostenibilidad y posicionarse con ventaja en los mercados globales.
+
+
+
+
+
+
 
