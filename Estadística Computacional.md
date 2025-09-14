@@ -1,7 +1,8 @@
-# Simulación Monte Carlo, técnicas de remuestreo (Bootstrap), programación estadística con R/Python
+# Estadística Computacional
+==Simulación Monte Carlo, técnicas de remuestreo (Bootstrap), programación estadística con R/Python
 
 **Autor:** Romina Giselle Ayala Martínez  
-**Fecha:** 14/09/1996  
+**Fecha:** 14/09/2025
 
 ---
 
