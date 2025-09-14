@@ -22,6 +22,8 @@ https://arxiv.org/pdf/2308.10244
 
 ## Evolución a lo largo del tiempo
 https://books.google.com/ngrams/graph?content=business+intelligence%2Cdata+warehouse%2Cpredictive+analytics%2C%5Bself+-+service+BI%5D+&year_start=1800&year_end=2022&corpus=en&smoothing=3
+
+
 - _Business intelligence_ aparece muy poco o nada hasta mediados/finales del siglo XX, luego comienza a tener relevancia.
 - _Data warehouse_ empieza a aparecer algo antes que _business intelligence_ en contexto técnico (dependiendo de cuándo se empezó a hablar formalmente de almacenes de datos), pero igualmente su uso se dispara después de los 80-90s.
 - _Predictive analytics_ llega un poco después, con su curva empinada ya en los 2000s, cuando las capacidades de cómputo, tamaño de datos y algoritmos estadísticos/machine learning empiezan a estar al alcance de más industrias.
