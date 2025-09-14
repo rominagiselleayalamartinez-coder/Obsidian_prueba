@@ -5,6 +5,7 @@ herramientas como QlikView o SAP Analytics.==
 
 ## Autor mas destacado
 Ralph Kimball y Margy Ross
+Son considerados autores destacados en inteligencia de negocios porque sentaron las bases prácticas del diseño dimensional en data warehousing, un enfoque que revolucionó la manera de organizar y explotar la información empresarial
 
 ## Libro mas consultado sobre inteligencia de negocios
 el libro mas leido es "The data warehouse toolkit" de Ralph kimball, contando a la fecha con 7532 citas.
