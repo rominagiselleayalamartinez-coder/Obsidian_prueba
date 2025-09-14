@@ -154,6 +154,8 @@ Pienso que en el libro s _network flows_ también puede servir mucho para las em
 [[Plataformas TMS]]
 Según lo investigado uno de los Mas leídos es
 <img width="624" height="763" alt="Plataformas T" src="https://github.com/user-attachments/assets/ec580f68-6283-490e-a3a8-3366c77739cc" />
+
+
 En el libro Transportation: A Global Supply Chain Perspective de John J. Coyle, C. John Langley Jr., Robert A. Novack, Brian J. Gibson
 
 Trata TMS de forma explícita el capitulo 3 "TRANSPORTATION TECHNOLOGY AND SYSTEMS" 
