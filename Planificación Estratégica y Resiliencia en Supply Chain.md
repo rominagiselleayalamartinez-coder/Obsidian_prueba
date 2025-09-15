@@ -105,4 +105,73 @@ Artículo clave: Pettit, Croxton & Fiksel (2019) “The evolution of resilience 
 [7]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8661997/?utm_source=chatgpt.com "Strengthening supply chain resilience during COVID‐19"
 [8]: https://www.mdpi.com/2673-4591/76/1/41?utm_source=chatgpt.com "Analyzing Supply Chain Risks and Resilience Strategies"
 [9]: https://journals.sagepub.com/doi/10.1177/10591478241302735?utm_source=chatgpt.com "Balancing Resilience and Efficiency: A Literature Review ..."
+
+
+ **d) Evolucion histórica del tema**
  
+**1. Décadas de 1980–1990: Eficiencia y planificación estratégica**
+
+Enfoque en reducción de costos y eficiencia operativa.
+
+Las cadenas se veían como lineales y predecibles, con fuerte uso de técnicas como Just in Time (JIT).
+
+Autores clave: Martin Christopher (ventaja competitiva desde la logística).
+
+👉 La resiliencia aún no era prioritaria, se asumía estabilidad en mercados y transporte.
+
+**2. Década de 2000: Globalización y riesgos**
+
+Cadenas de suministro se expanden globalmente.
+
+Aparecen vulnerabilidades por dependencia de proveedores únicos y riesgos geopolíticos.
+
+Eventos clave: ataques del 11-S, SARS (2003), crisis financiera (2008).
+
+Se empieza a hablar de gestión de riesgos en supply chain.
+
+👉 La planificación estratégica comienza a integrar diversificación y redundancias.
+
+**3. Década de 2010: Digitalización y resiliencia**
+
+Auge del big data, IoT y blockchain para trazabilidad.
+
+Se refuerza la idea de resiliencia como ventaja competitiva.
+
+Autores como Yossi Sheffi y Pettit/Fiksel desarrollan marcos sobre cómo las cadenas deben anticipar y adaptarse.
+
+👉 Estrategia + resiliencia empiezan a ser inseparables.
+
+**4. 2020 en adelante: COVID-19 y crisis múltiples**
+
+La pandemia reveló la fragilidad de las cadenas globales.
+
+Temas actuales:
+
+Nearshoring / reshoring (acercar producción a mercados de consumo).
+
+Multi-sourcing (diversificación de proveedores).
+
+Equilibrio entre eficiencia (costos) y resiliencia (redundancia, flexibilidad).
+
+Sostenibilidad y circularidad como parte de la resiliencia.
+
+Autores recientes como Dmitry Ivanov estudian la resiliencia dinámica y digitalización post-COVID.
+
+👉 Ahora, la planificación estratégica no se entiende sin resiliencia.
+
+**✅ Resumen**
+
+Antes de 2000 → foco en eficiencia y costos.
+
+2000–2010 → surge el interés en riesgos globales.
+
+2010–2019 → digitalización + resiliencia como ventaja competitiva.
+
+2020+ → resiliencia se vuelve central ante pandemias, cambio climático, conflictos y disrupciones globales.
+
+**e) Opinion personal**
+Segun todo lo leido se reconoce que la gestión de la cadena de suministro ha evolucionado desde un enfoque centrado exclusivamente en la eficiencia hacia un paradigma que integra la planificación estratégica de largo plazo con la resiliencia organizacional. La planificación estratégica permite alinear las operaciones logísticas con los objetivos corporativos, optimizando recursos, mejorando la coordinación entre actores y garantizando un posicionamiento competitivo. Por su parte, la resiliencia se entiende como la capacidad de anticipar, absorber y adaptarse frente a disrupciones, asegurando la continuidad operativa en entornos volátiles.
+
+Diversos estudios (Sheffi, 2015; Ivanov et al., 2019; Pettit, Croxton & Fiksel, 2019) han demostrado que la resiliencia en las cadenas de suministro no solo es una respuesta reactiva, sino un factor que puede transformarse en ventaja competitiva cuando se integra al proceso de planificación estratégica. En este sentido, aspectos como la diversificación de proveedores, la digitalización para monitoreo en tiempo real, y la incorporación de principios de sostenibilidad constituyen prácticas esenciales para el fortalecimiento de cadenas globales y locales.
+
+Aunque la mayoría de los análisis se han desarrollado en sectores industriales y manufactureros, es importante señalar que estos enfoques también pueden ser aplicados al área gastronómica, donde la variabilidad en la disponibilidad de insumos y la necesidad de garantizar calidad y frescura hacen indispensable contar con cadenas de suministro estratégicamente planificadas y resilientes.
