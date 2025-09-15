@@ -79,4 +79,5 @@ La capacitación en lenguajes como R y Python puede fortalecer la capacidad anal
 -Mejora en la toma de decisiones: La aplicación de estas técnicas permite una evaluación más precisa de riesgos y beneficios, conduciendo a decisiones más informadas en políticas públicas y estrategias empresariales.
 
 -Colaboración interinstitucional: Fomentar la colaboración entre universidades, gobiernos y sector privado puede acelerar la adopción de estas herramientas y maximizar su impacto
+
 ---
