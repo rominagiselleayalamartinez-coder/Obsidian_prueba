@@ -8,12 +8,19 @@ Asimismo, se buscaron las publicaciones más visitadas y se encontró:
 
 <img width="886" height="471" alt="image" src="https://github.com/user-attachments/assets/0db5009f-f73a-44dc-bc16-b7392039f2c6" />
 
-Es decir que otro de los libros mas leídos es:
+Es decir que otro de los autores mas leídos es:
 TD Cook, CS Reichardt, JMÁ Méndez, Métodos cualitativos y cuantitativos en investigación evaluativa, 1986.
+--
 ## 2. ¿Qué libro es el más leído?
 Aunque las fuentes mencionan varios libros de texto y recursos, uno de los más destacados y citados en el contexto del Análisis de Series Temporales es:
 • "Time Series Analysis – Forecasting and Control (3rd edition)" de Box, G.E.P., Jenkins, G.M., y Reinsel, G.C. (1994, Prentice Hall)12. Este libro es una referencia fundamental en el campo, y el autor José Alberto Mauricio señala que es muy complejo encontrar manuales de Econometría o de Análisis de Series Temporales aplicado a la Economía, en los que no se mencionen los modelos VARMA, lo que implica una fuerte base en los modelos de Box-Jenkins.
 Adicionalmente, "An Introduction to Statistical Learning w/ R" es un libro accesible y también se encuentra online, siendo popular por su aprendizaje práctico.
+De acuero a la busqueda obtenida en Hazings Publish or Perish, se obtuvo que el libro mas cosultado es:
+
+<img width="198" height="300" alt="image" src="https://github.com/user-attachments/assets/4de48947-2bc4-4224-922f-f6cb1386e0e9" />
+
+TD Cook, CS Reichardt, JMÁ Méndez, Métodos cualitativos y cuantitativos en investigación evaluativa, 1986.
+
 ## 3. Artículos científicos
 El documento "Cuadro comparativo de Análisis Paramétrico y No Paramétrico" de la Universidad Autónoma del Estado de Hidalgo es un artículo científico del tema, sus autores son Rocío B. Mayorga-Ponce, Diana C. Graciano-Ventura, Anahí M. Hernández, Paola M. Moctezuma-Jiménez, Berenice Pérez-Galindo y Adamary Roldan-Carpio910. Este artículo compara las características y aplicaciones de las pruebas estadísticas paramétricas y no paramétricas, siendo el articulo más popular. Nos  ayuda a entender dos grandes "kits de herramientas" que los estadísticos usan para analizar datos, dependiendo de si estos datos siguen patrones conocidos o son más impredecibles.
 Otras publicaciones científicas son:
