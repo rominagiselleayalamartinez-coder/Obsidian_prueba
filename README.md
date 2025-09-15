@@ -11,7 +11,8 @@ Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing E
 * Sergio Duarte <sergioduarteloza@gmail.com>
 * Marjorie Díaz <marjoriejohanadiazherrera@gmail.com>
 * Daniela Artero Salas <daniela.artero@ucb.edu.bo>
+* Andrea Mejía Adriázola <amejia.va@gmail.com>
   
   
 
-Última modificación Romina 202509151709 
+Última modificación Andrea 202509151744
