@@ -10,7 +10,7 @@ Asimismo, se buscaron las publicaciones más visitadas y se encontró:
 
 Es decir que otro de los autores mas leídos es:
 TD Cook, CS Reichardt, JMÁ Méndez, Métodos cualitativos y cuantitativos en investigación evaluativa, 1986.
---
+
 ## 2. ¿Qué libro es el más leído?
 Aunque las fuentes mencionan varios libros de texto y recursos, uno de los más destacados y citados en el contexto del Análisis de Series Temporales es:
 • "Time Series Analysis – Forecasting and Control (3rd edition)" de Box, G.E.P., Jenkins, G.M., y Reinsel, G.C. (1994, Prentice Hall)12. Este libro es una referencia fundamental en el campo, y el autor José Alberto Mauricio señala que es muy complejo encontrar manuales de Econometría o de Análisis de Series Temporales aplicado a la Economía, en los que no se mencionen los modelos VARMA, lo que implica una fuerte base en los modelos de Box-Jenkins.
