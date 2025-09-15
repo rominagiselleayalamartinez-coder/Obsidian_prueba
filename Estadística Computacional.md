@@ -14,21 +14,14 @@
 
 ## 2. Libro más leído
 https://books.google.com.bo/books?hl=en&lr=&id=bCJx53VQS7IC&oi=fnd&pg=PA1&dq=computational+statistics&ots=XiO2I7nHHA&sig=MK2Rz55dGeGEY5H3bPZA_WT5vms&redir_esc=y#v=onepage&q=computational%20statistics&f=false
-- [ ] AJ Smola, B Scholkopf,
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/928f0b0f-c3f8-44e0-b22d-e4648f760b33" />
-<img width="276" height="369" alt="image" src="https://github.com/user-attachments/assets/f9311427-8cb5-44b4-834a-20a5e02dcc19" />
-
-- [ ] Statistics and computing,Springer,AJ Smola, B Scholkopf
-- [ ] Este material abarca el amplio campo de la estadística computacional, haciendo hincapié en la inferencia computacional como un componente esencial de los métodos estadísticos. Comienza con una revisión de conceptos matemáticos fundamentales, como vectores, matrices y funciones, destacando la importancia de herramientas como las descomposiciones matriciales y las normas en espacios vectoriales para el análisis de datos. Luego, el texto examina la aritmética informática y la representación de números, junto con los errores en los cálculos numéricos y la eficiencia algorítmica. Posteriormente, se exploran métodos de aproximación de funciones, integración numérica y generación de números aleatorios, incluyendo técnicas de Monte Carlo y cadenas de Markov Monte Carlo (MCMC). Se adentra en métodos gráficos interactivos para la visualización de datos multidimensionales, la identificación de estructuras mediante transformaciones de datos y medidas de similitud. Finalmente, aborda la estimación no paramétrica de funciones de densidad de probabilidad, algoritmos de agrupamiento para descubrir estructuras en los datos, y modelos estadísticos de dependencia para la predicción y clasificación, como el análisis de componentes principales y los métodos de aprendizaje automático
 
 ---
 
 ## 3. Artículo científico
-- [ ] AJ Smola, B Scholkopf,
+- [ ] Statistics and computing,Springer,AJ Smola, B Scholkopf
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/928f0b0f-c3f8-44e0-b22d-e4648f760b33" />
 <img width="276" height="369" alt="image" src="https://github.com/user-attachments/assets/f9311427-8cb5-44b4-834a-20a5e02dcc19" />
 
-- [ ] Statistics and computing,Springer,AJ Smola, B Scholkopf
 - [ ] Este material abarca el amplio campo de la estadística computacional, haciendo hincapié en la inferencia computacional como un componente esencial de los métodos estadísticos. Comienza con una revisión de conceptos matemáticos fundamentales, como vectores, matrices y funciones, destacando la importancia de herramientas como las descomposiciones matriciales y las normas en espacios vectoriales para el análisis de datos. Luego, el texto examina la aritmética informática y la representación de números, junto con los errores en los cálculos numéricos y la eficiencia algorítmica. Posteriormente, se exploran métodos de aproximación de funciones, integración numérica y generación de números aleatorios, incluyendo técnicas de Monte Carlo y cadenas de Markov Monte Carlo (MCMC). Se adentra en métodos gráficos interactivos para la visualización de datos multidimensionales, la identificación de estructuras mediante transformaciones de datos y medidas de similitud. Finalmente, aborda la estimación no paramétrica de funciones de densidad de probabilidad, algoritmos de agrupamiento para descubrir estructuras en los datos, y modelos estadísticos de dependencia para la predicción y clasificación, como el análisis de componentes principales y los métodos de aprendizaje automático
 
 ---
