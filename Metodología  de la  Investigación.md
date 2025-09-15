@@ -2,6 +2,18 @@
 
 La metodología de la investigación es el conjunto de enfoques, métodos, técnicas y procedimientos que guían la producción de conocimiento científico con rigor, validez y confiabilidad. En el ámbito iberoamericano se ha consolidado un corpus pedagógico que integra rutas cuantitativa, cualitativa y mixta, facilitando la formación universitaria y la práctica profesional en múltiples disciplinas. Entre los manuales y tratados más influyentes se encuentran las obras de *Hernández Sampieri* en español y *Creswell & Plano Clark* en inglés, ampliamente adoptadas en cursos de grado y posgrado.
 
+Existen dos tipos de metodologías de la invetigación
+
+- **Metodología Cuantitativa:** Este enfoque se centra en la recolección y análisis de datos numéricos. Busca cuantificar variables, establecer relaciones estadísticas y generalizar resultados a poblaciones más grandes. Es ideal para probar hipótesis, medir la magnitud de fenómenos y comparar grupos.
+  - Características principales:
+      - Se basa en la estadística y las matemáticas.
+      - Utiliza instrumentos estandarizados como encuestas, cuestionarios y experimentos.
+      - Busca la objetividad y la replicabilidad.
+      - Se enfoca en la causalidad y la correlación.
+  - Técnicas comunes:
+      - Encuestas: Recopilación de datos a través de cuestionarios a una muestra representativa.
+      - Experimentación: Manipulación de variables para observar su efecto en otras variables.
+      - Análisis de datos secundarios: Utilización de bases de datos existentes.
 ## Autor destacado
 
 
