@@ -24,7 +24,7 @@ En el espacio hispanohablante, el manual * *Metodología de la investigación: L
     
 El artículo se centra en desarrollar y comparar la eficacia y eficiencia de diversos métodos de búsqueda para identificar si una tesis académica ha sido publicada posteriormente en una revista científica. Los autores evalúan cinco métodos existentes junto con una propuesta propia (Método F), poniendo a prueba todos ellos con cinco tesis de medicina previamente publicadas. Los hallazgos revelan que el Método F, junto con el Método D, fueron los más exitosos, localizando todas las publicaciones con la mayor eficiencia al utilizar solo dos estrategias de búsqueda, principalmente a través de Google Scholar y PubMed. El propósito principal es ofrecer una herramienta más fiable para el monitoreo de la producción científica universitaria y mejorar los análisis bibliográficos.
 
-**Ibáñez, C. L. (2008). “Fases, fuentes y selección de técnicas…”.** Redalyc. Revisión de etapas del proceso científico y criterios para seleccionar técnicas.
+- **Ibáñez, C. L. (2008). “Fases, fuentes y selección de técnicas…”.** Redalyc. Revisión de etapas del proceso científico y criterios para seleccionar técnicas.
 
 (https://journal.universidadean.edu.co/index.php/revista/article/view/450)
 
