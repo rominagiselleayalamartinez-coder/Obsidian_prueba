@@ -7,7 +7,7 @@
 ---
 
 ## 1. Autor destacado
-- [ ] AJ Smola, B Scholkopf
+- [ ] AJ Smola, B Scholkopf,
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/928f0b0f-c3f8-44e0-b22d-e4648f760b33" />
 
 ---
@@ -22,14 +22,10 @@
 
 ## 3. Artículo científico
 - [ ] Seleccionar al menos un artículo relevante  
-- [ ] Referencia:
+- [ ] Referencias:
 - [ ] Ximénez, M. Carmen; García, Ana G. Comparación de los métodos de estimación de máxima verosimilitud y mínimos cuadrados no ponderados en el análisis factorial confirmatorio mediante simulación Monte Carlo Psicothema, vol. 17, núm. 3, 2005, pp. 528-535 Universidad de Oviedo Oviedo, España.
 - [ ] Ramírez, Isabel C., Barrera, Carlos J., & Correa, Juan C.. (2013). Efecto del tamaño de muestra y el número de réplicas bootstrap. Ingeniería y competitividad, 15(1), 93-101. Retrieved September 14, 2025, from http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0123-30332013000100009&lng=en&tlng=es.
 - [ ] Challenger-Pérez, Ivet; Díaz-Ricardo, Yanet; Becerra-García, Roberto Antonio El lenguaje de programación Python Ciencias Holguín, vol. XX, núm. 2, abril-junio, 2014, pp. 1-13 Centro de Información y Gestión Tecnológica de Santiago de Cuba Holguín, Cuba
-
-| Autor | Año | Título | Resumen |
-|-------|-----|--------|---------|
-|       |     |        |         |
 
 ---
 
