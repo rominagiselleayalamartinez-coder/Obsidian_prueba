@@ -9,7 +9,6 @@
 ## 1. Autor destacado
 - [ ] Investigar nombre del autor más relevante
 - [ ] Escribir breve descripción de su aporte 
-# bkdbhjd
 ---
 
 ## 2. Libro más leído
