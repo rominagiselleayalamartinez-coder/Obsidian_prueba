@@ -2,7 +2,7 @@
 ==Simulación Monte Carlo, técnicas de remuestreo (Bootstrap), programación estadística con R/Python
 ---
 
-#**Nombre:** Romina Giselle Ayala Martinez  
+**Nombre:** Romina Giselle Ayala Martinez  
 **Fecha:** 14/09/2025
 
 ---
