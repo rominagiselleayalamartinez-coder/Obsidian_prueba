@@ -7,7 +7,7 @@
 ---
 
 ## 1. Autor destacado
-- [ ]AJ Smola, B Scholkopf
+- [ ] AJ Smola, B Scholkopf
 -<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/928f0b0f-c3f8-44e0-b22d-e4648f760b33" />
 
 ---
