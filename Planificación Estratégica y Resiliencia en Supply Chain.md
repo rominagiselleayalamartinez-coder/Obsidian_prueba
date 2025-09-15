@@ -31,7 +31,45 @@ Elementos clave:
 - La resiliencia complementa asegurando continuidad y adaptación en contextos inciertos.
 - Juntas permiten una cadena competitiva, sostenible y preparada para crisis (como pandemias, conflictos geopolíticos o cambio climático).
 
-**Bibliografía sugerida**
+**a) Autores destacados**
+1. Martin Christopher
+
+Considerado uno de los padres de la gestión de la cadena de suministro moderna.
+
+Ha trabajado mucho en logística, planificación estratégica y cadenas centradas en el cliente.
+
+Libro clave: Logistics & Supply Chain Management (2016).
+
+2. Yossi Sheffi
+
+Profesor del MIT, experto en resiliencia y gestión de riesgos en cadenas de suministro.
+
+Ha estudiado cómo las empresas enfrentan crisis globales y disrupciones.
+
+Libro clave: The Power of Resilience (2015).
+
+3. Sunil Chopra
+
+Coautor del libro de referencia Supply Chain Management: Strategy, Planning, and Operation.
+
+Enfocado en la planificación estratégica, diseño de redes logísticas y decisiones de largo plazo.
+
+4. Dmitry Ivanov
+
+Reconocido investigador en resiliencia dinámica, digitalización y disrupciones en cadenas globales.
+
+Ha publicado extensamente sobre modelos de resiliencia tras COVID-19 y crisis internacionales.
+
+Libro: Global Supply Chain and Operations Management (2019).
+
+5. Tom Pettit / Joseph Fiksel
+
+Pettit y Fiksel han desarrollado marcos conceptuales sobre resiliencia en cadenas de suministro.
+
+Artículo clave: Pettit, Croxton & Fiksel (2019) “The evolution of resilience in supply chain management”.
+
+
+**b) Libros mas leidos**
 - Chopra, S., & Meindl, P. (2023). Supply Chain Management: Strategy, Planning, and Operation (8th ed.). Pearson.
 - Christopher, M. (2016). Logistics & Supply Chain Management (5th ed.). Pearson Education.
 - Ivanov, D., Tsipoulanidis, A., & Schönberger, J. (2019). Global Supply Chain and Operations Management: A Decision-Oriented Introduction to the Creation of Value. Springer.
