@@ -34,6 +34,7 @@ Elementos clave:
 <img width="1900" height="1320" alt="output" src="https://github.com/user-attachments/assets/b03e7768-fbb5-4457-9006-ff935fb367ff" />
 
 **a) Autores destacados**
+
 **1. Martin Christopher**
 
 Considerado uno de los padres de la gestión de la cadena de suministro moderna.
@@ -71,12 +72,8 @@ Pettit y Fiksel han desarrollado marcos conceptuales sobre resiliencia en cadena
 Artículo clave: Pettit, Croxton & Fiksel (2019) “The evolution of resilience in supply chain management”.
 
 **Cuadro comparativo de autores**
-Autor	Enfoque Principal	Contribución Relevante	Obra/Referencia Clave
-Martin Christopher	Logística y planificación estratégica de la cadena de suministro	Introdujo el concepto de cadenas de suministro orientadas al cliente y la ventaja competitiva desde la logística	Logistics & Supply Chain Management (2016)
-Sunil Chopra	Estrategia, diseño y planificación de cadenas	Desarrollo de marcos estratégicos para diseño de redes, inventarios y coordinación global	Supply Chain Management: Strategy, Planning, and Operation (2023)
-Yossi Sheffi	Resiliencia y gestión de riesgos	Estudió cómo las empresas sobreviven y se fortalecen tras disrupciones globales	The Power of Resilience (2015)
-Dmitry Ivanov	Resiliencia dinámica y digitalización	Propuso modelos de simulación y respuesta ante disrupciones (COVID-19, crisis globales)	Global Supply Chain and Operations Management (2019)
-Tom Pettit / Joseph Fiksel	Resiliencia en cadenas de suministro	Desarrollaron marcos de evaluación y evolución de la resiliencia organizacional	Pettit, Croxton & Fiksel (2019). Journal of Business Logistics
+<img width="1900" height="1320" alt="autores" src="https://github.com/user-attachments/assets/662ca349-f8b1-4827-aceb-60e4d6b9e4f2" />
+
 
 **b) Libros mas leidos**
 - Chopra, S., & Meindl, P. (2023). Supply Chain Management: Strategy, Planning, and Operation (8th ed.). Pearson.
@@ -87,4 +84,25 @@ Tom Pettit / Joseph Fiksel	Resiliencia en cadenas de suministro	Desarrollaron ma
 - Wieland, A., & Wallenburg, C. M. (2013). The influence of relational competencies on supply chain resilience: A relational view. International Journal of Physical Distribution & Logistics Management, 43(4), 300–320. https://doi.org/10.1108/IJPDLM-08-2012-0243
 
   **c) Articulos cientificos que hablan del tema**
-  
+ | Autor / Año                             | Título                                                                              | Enfoque / Temas principales                                                                                                                                                                                |
+| --------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Guo, Y. (2024)                          | *Supply chain resilience: A review from the inventory management perspective*       | Revisión literaria sobre estrategias de gestión de inventarios para mejorar la resiliencia: “stockpiling”, multi-sourcing, contratos flexibles, etc. ([ScienceDirect][1])                                  |
+| Kaneberg, E. (2025)                     | *Supply chain resilience and critical dynamic capabilities*                         | Examina qué capacidades dinámicas críticas (como adaptabilidad, aprendizaje, reconfiguración) son necesarias para mantener la resiliencia en interrupciones de gran escala. ([Taylor & Francis Online][2]) |
+| Hosseini Shekarabi, S. A. et al. (2025) | *Supply Chain Resilience: A Critical Review of Risk*                                | Estudio bibliométrico que mapea la literatura entre 2000-2024 sobre resiliencia, riesgo, adopción de tecnología, optimización, estrategias contra interrupciones. ([SpringerLink][3])                      |
+| Yan, X. et al. (2023)                   | *Supply chain resilience enhancement strategies in the investment decision context* | Se enfoca en decisiones de inversión relacionadas con resiliencia: cómo invertir para prepararse frente a interrupciones, oleadas en la demanda y disrupciones de suministro. ([ScienceDirect][4])         |
+| Padovano, A. et al. (2025)              | *Towards resilient and viable supply chains*                                        | Propone un marco tridimensional que integra producto, procesos, tecnología y perspectiva humana para hacer la cadena de suministro viable y resiliente. ([Taylor & Francis Online][5])                     |
+| Cinti, A. et al. (2025)                 | *Enhancing supply chain resilience through the supply network approach*             | Explora cómo estructurar las redes de suministro para reforzar la resiliencia ante interrupciones globales, colaboraciones, redundancias, visibilidad, etc. ([Emerald][6])                                 |
+| Shen, Z. M. (2021)                      | *Strengthening supply chain resilience during COVID-19*                             | Estudio de caso de JD.com (China), analiza cómo respondieron ante la pandemia, adaptaciones operativas, flexibilidad, colaboración institucional. ([PMC][7])                                               |
+| Sultana, S. et al. (2024)               | *Analyzing Supply Chain Risks and Resilience Strategies (OEM sector)*               | Revisión que identifica diversos tipos de riesgos en la cadena de suministro de fabricantes de equipo original, y propone estrategias para mitigar esos riesgos y aumentar resiliencia. ([MDPI][8])        |
+| Artículo de Sage (2024)                 | *Balancing Resilience and Efficiency: A Literature Review*                          | Revisan el difícil equilibrio entre resiliencia y eficiencia: muchas prácticas resilientes implican costos extra, trade-offs, y cómo gestionarlos. ([SAGE Journals][9])                                    |
+
+[1]: https://www.sciencedirect.com/science/article/pii/S2667325824003108?utm_source=chatgpt.com "Supply chain resilience: A review from the inventory ..."
+[2]: https://www.tandfonline.com/doi/full/10.1080/21693277.2025.2523957?utm_source=chatgpt.com "Supply chain resilience and critical dynamic capabilities"
+[3]: https://link.springer.com/article/10.1007/s40171-025-00458-8?utm_source=chatgpt.com "Supply Chain Resilience: A Critical Review of Risk ..."
+[4]: https://www.sciencedirect.com/science/article/pii/S2667325823003692?utm_source=chatgpt.com "Supply chain resilience enhancement strategies in the ..."
+[5]: https://www.tandfonline.com/doi/full/10.1080/00207543.2025.2470350?utm_source=chatgpt.com "Full article: Towards resilient and viable supply chains"
+[6]: https://www.emerald.com/insight/content/doi/10.1108/jbim-02-2023-0106?utm_source=chatgpt.com "Enhancing supply chain resilience through the supply network ..."
+[7]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8661997/?utm_source=chatgpt.com "Strengthening supply chain resilience during COVID‐19"
+[8]: https://www.mdpi.com/2673-4591/76/1/41?utm_source=chatgpt.com "Analyzing Supply Chain Risks and Resilience Strategies"
+[9]: https://journals.sagepub.com/doi/10.1177/10591478241302735?utm_source=chatgpt.com "Balancing Resilience and Efficiency: A Literature Review ..."
+ 
