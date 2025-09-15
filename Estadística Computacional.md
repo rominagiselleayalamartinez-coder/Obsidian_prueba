@@ -31,7 +31,7 @@ https://books.google.com.bo/books?hl=en&lr=&id=bCJx53VQS7IC&oi=fnd&pg=PA1&dq=com
 ## 4. Evolución del tema a lo largo del tiempo
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d07e3a0c-d464-497f-9b13-48d86cd352df" />
-
+Se puede evidenciar que Python es un tema que va en ascenso de interés a diferencia del metodo Monte Carlo que tiene una tendencia de descenso en la actualidad.
 ---
 
 ## 5. Opinión personal  
