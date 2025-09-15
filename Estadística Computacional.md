@@ -34,10 +34,7 @@
 ---
 
 ## 4. Evolución del tema a lo largo del tiempo
-- [ ] Describir cómo ha avanzado la Simulación Monte Carlo  
-- [ ] Incluir técnicas de remuestreo y uso de R/Python  
-- [ ] Crear cronología / hitos importantes  
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f90d6f99-0c88-4c49-9860-771ec6f9d3ab" />
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d07e3a0c-d464-497f-9b13-48d86cd352df" />
 
 ---
