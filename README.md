@@ -20,4 +20,4 @@ Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing E
   
   
 
-Última modificación Andrea 202509151744
+Última modificación Jerlin 202509151842
