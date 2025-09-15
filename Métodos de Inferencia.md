@@ -5,7 +5,9 @@
 • R. A. Fisher fue el autor que elaboró el método fundamental en inferencia estadística "máxima verosimilitud" a principios del siglo XX1. Fue  el arquitecto principal de una de las formas más ingeniosas de "adivinar" lo que está pasando en un sistema complejo, basándose en la información que tenemos. Otros, antes que él, como Gauss o Laplace, ya la usaban, pero Fisher la popularizó y formalizó.
 • Otros autores recomendados para Métodos de inferencia y modelado estadístico son: LCD Carlos E. Rodríguez y José Alberto Mauricio, quienes nos guían a través de estos conceptos en sus respectivos materiales. Y en el campo de la comparación de métodos, Rocío B. Mayorga-Ponce y Javier Morales y Mª Asunción Martínez.
 Asimismo, se buscaron las publicaciones más visitadas y se encontró:
+
 <img width="886" height="471" alt="image" src="https://github.com/user-attachments/assets/0db5009f-f73a-44dc-bc16-b7392039f2c6" />
+
 Es decir que otro de los libros mas leídos es:
 TD Cook, CS Reichardt, JMÁ Méndez, Métodos cualitativos y cuantitativos en investigación evaluativa, 1986.
 ## 2. ¿Qué libro es el más leído?
