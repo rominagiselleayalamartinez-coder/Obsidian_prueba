@@ -10,13 +10,13 @@ Existen dos tipos de metodologías de la invetigación:
       - Utiliza instrumentos estandarizados como encuestas, cuestionarios y experimentos.
       - Busca la objetividad y la replicabilidad.
       - Se enfoca en la causalidad y la correlación.
-
-<img width="1024" height="1024" alt="Met  Cuantitativa" src="https://github.com/user-attachments/assets/addba594-8856-4e8a-8403-ef786f358220" />
-
-  - Técnicas comunes:
+    - Técnicas comunes:
       - Encuestas: Recopilación de datos a través de cuestionarios a una muestra representativa.
       - Experimentación: Manipulación de variables para observar su efecto en otras variables.
       - Análisis de datos secundarios: Utilización de bases de datos existentes.
+     
+![Met  Cuantitativa](https://github.com/user-attachments/assets/6d51e6e8-edb0-4799-9b48-bb50bad2008a)
+
 - **Metodología Cualitativa:** A diferencia de la cuantitativa, este enfoque busca comprender en profundidad los fenómenos, explorando significados, experiencias y perspectivas. Se centra en datos no numéricos como entrevistas, observaciones y análisis de contenido.
   - Características principales:
       - Interpretativa y subjetiva.
@@ -29,8 +29,20 @@ Existen dos tipos de metodologías de la invetigación:
       - Observación participante: El investigador se involucra en el entorno estudiado.
       - Análisis de contenido: Interpretación de textos, imágenes o videos.
   
-  <img width="1024" height="1024" alt="Met  Cualitativaa" src="https://github.com/user-attachments/assets/4189db5c-c160-45f0-851f-e1e340ff50dd" />
+![metodos-de-investigacion-cualitativa](https://github.com/user-attachments/assets/ce89c7e9-f253-40f5-9d36-740b2eb0dce1)
 
+-**Metodología Mixta:** Este enfoque combina elementos de las metodologías cuantitativa y cualitativa en un solo estudio. El objetivo es obtener una comprensión más completa y profunda del problema de investigación, aprovechando las fortalezas de ambos enfoques.
+  - Características principales:
+      - Integra datos numéricos y no numéricos.
+      - Permite triangulación de resultados (validar hallazgos de un método con otro).
+      - Es flexible y adaptable a diferentes diseños de investigación.
+      - Proporciona una visión más holística del fenómeno estudiado.
+  - Diseños comunes:
+      - Secuencial exploratorio: Primero cualitativo para explorar, luego cuantitativo para confirmar.
+      - Secuencial explicativo: Primero cuantitativo para medir, luego cualitativo para explicar.
+      - Concurrente: Cualitativo y cuantitativo se realizan simultáneamente.
+
+<img width="1024" height="1024" alt="Generated Image September 15, 2025 - 6_52PM" src="https://github.com/user-attachments/assets/b4f4d137-03cb-4a0d-8292-f3ebfb7848ae" />
 
 ## Autor destacado
 
@@ -74,16 +86,10 @@ La evolución histórica puede sintetizarse en cinco hitos:
 
 - Convergencia y métodos mixtos (1990–presente). Se consolida el enfoque mixto (integración cuali–cuanti) como “tercer movimiento metodológico”, con manuales estándar (Creswell & Plano Clark; Tashakkori & Teddlie). La literatura reporta crecimiento sostenido de diseños convergentes, explicativos y exploratorios secuenciales. Evidencia empírica en revistas iberoamericanas sugiere un desplazamiento: predominio cuantitativo en la etapa 1997–2000; ascenso de lo cualitativo (2005–2007) y, desde 2000, expansión de opciones integradoras (mixtas).
 
-## Técnología SCADA en Bolivia
+## Comentarios
 
-![Saguapac](https://github.com/user-attachments/assets/b8b229f5-6f07-44b7-b690-81744211359c)
+La metodología de la investigación es importante en todas las universidades de Bolivia, es la base para lograr un documento que permita a los estudiantes legar a la titulación de sus carreras. La metodología de la investigación logra formar criterio cientifico entre los estudiantes. Así tambien, es la base para articulos cientificos, si un estudiantes quiere publicar un articulo, el mismo ganará visibilidad internacional si cumple con la estructura que plantea la metodología de la investigación.
 
-En junio del presente año, SAGUAPAC la cooperativa de agua del departamento de Santa Cruz, publicó la mejora de conexiones, así como el monitoreo total de sus alcantarillados y redes de distribución de agua mediante la tecnología SCADA.
+En el sector productivo, la metodología de la investigación sirve para mejorar semillas, ingertos, sistemas de riego, manejo de suelos, entre otros. 
 
-El sistema SCADA permite a ENDE, la empresa de electrificación a nivel nacional, mejorar la operación del Sistema Interconectado Nacional y habilita condiciones técnicas para interconexión regional (telemetría, automatización de despacho). Esto reduce tiempos de respuesta y pérdidas técnicas. SCADA tiene un potencial neto positivo: más eficiencia operativa, seguridad de procesos, calidad y transparencia.
-
-  
-En YPFB, la tecnología SCADA opera a través del satélite Túpac Katari. La plataforma de comunicaciones y el sistema SCADA adquieren datos de más de 700 sistemas de medición de hidrocarburos, integrando alrededor de 9.000 señales instrumentales distribuidas en plantas de producción, estaciones de exportación, sistemas de transporte de gas y de líquidos, consumidores internos y redes de gas.
- 
-
-SCADA es una tecnología robusta con la capacidad de operar grandes plantas, manteniendo la comunicación en tiempo real de todo el sistema y alertando de forma precisa a los usuarios de riesgos o posibles riesgos que la planta pueda presentar.
+En general, la metofología de la investigación es importante a nivel global ya que el mismo es la estructura para poder lograr estudios de campo en diferentes áreas, desde el área productiva, hasta el área de salud.
