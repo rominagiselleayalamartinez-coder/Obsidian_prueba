@@ -1,6 +1,9 @@
 ==Regresión lineal, ANOVA, modelos predictivos, series temporales.
 
 # Métodos de inferencia y modelado estadístico
+
+##Andrea Verónica Mejía Adiázola <amejia.va@gmail.com>
+
 ## 1. ¿Quién es el autor destacado?
 • R. A. Fisher fue el autor que elaboró el método fundamental en inferencia estadística "máxima verosimilitud" a principios del siglo XX1. Fue  el arquitecto principal de una de las formas más ingeniosas de "adivinar" lo que está pasando en un sistema complejo, basándose en la información que tenemos. Otros, antes que él, como Gauss o Laplace, ya la usaban, pero Fisher la popularizó y formalizó.
 • Otros autores recomendados para Métodos de inferencia y modelado estadístico son: LCD Carlos E. Rodríguez y José Alberto Mauricio, quienes nos guían a través de estos conceptos en sus respectivos materiales. Y en el campo de la comparación de métodos, Rocío B. Mayorga-Ponce y Javier Morales y Mª Asunción Martínez.
@@ -24,18 +27,27 @@ TD Cook, CS Reichardt, JMÁ Méndez, Métodos cualitativos y cuantitativos en in
 ## 3. Artículos científicos
 El documento "Cuadro comparativo de Análisis Paramétrico y No Paramétrico" de la Universidad Autónoma del Estado de Hidalgo es un artículo científico del tema, sus autores son Rocío B. Mayorga-Ponce, Diana C. Graciano-Ventura, Anahí M. Hernández, Paola M. Moctezuma-Jiménez, Berenice Pérez-Galindo y Adamary Roldan-Carpio910. Este artículo compara las características y aplicaciones de las pruebas estadísticas paramétricas y no paramétricas, siendo el articulo más popular. Nos  ayuda a entender dos grandes "kits de herramientas" que los estadísticos usan para analizar datos, dependiendo de si estos datos siguen patrones conocidos o son más impredecibles.
 Otras publicaciones científicas son:
+
 • Davis, R.A., Chen, M., y Dunsmuir, W.T.M. (1995): "Inference for MA processes with a root on or near the unit circle", Probability and Mathematical Statistics.
+
 • Kwiatkowski, D., Phillips, P.C.B., Schmidt, P., y Shin, Y. (1992): "Testing the null hypothesis of stationarity against the alternative of a unit root: How sure are we that economic time series have a unit root?", Journal of Econometrics, 54, 159-17818.
+
 • MacKinnon, J.G., Haug, A.A., y Michelis, L. (1999): "Numerical Distribution Functions of Likelihood Ratio Tests for Cointegration", Journal of Applied Econometrics, 14, 563-57719.
 
 ## 4. ¿Cuál es la evolución a lo largo del tiempo del tema?
 La evolución de la inferencia y el modelado estadístico ha sido significativa:
 • Orígenes y formalización de la Máxima Verosimilitud: El método de máxima verosimilitud fue utilizado por matemáticos como Carl Friedrich Gauss, Pierre-Simon Laplace, Thorvald N. Thiele y Francis Edgeworth antes de ser formalmente recomendado, analizado y popularizado por R. A. Fisher entre 1912 y 19221.
+
 • Desarrollo de métodos paramétricos y no paramétricos: Inicialmente, los modelos paramétricos asumían que los datos seguían una distribución específica. Sin embargo, la conciencia de que esta suposición rara vez es completamente cierta llevó al desarrollo de métodos no paramétricos, que ofrecen mayor flexibilidad al no imponer una estructura restrictiva sobre la distribución de los datos. Los métodos paramétricos, no obstante, siguen siendo relevantes, especialmente con pocos datos o cuando el modelo paramétrico es una buena aproximación.
+
 • Análisis de Series Temporales: El estudio de las series temporales ha evolucionado desde la descripción de patrones hasta el desarrollo de modelos estadísticos complejos para describir su procedencia, prever su evolución futura y contrastar teorías. Esto incluye modelos ARMA (Autorregresivos de Media Móvil), ARIMA (Autorregresivos Integrados de Media Móvil), y sus extensiones multivariantes como los VAR (Vectoriales Autorregresivos) y VARMA (Vectoriales Autorregresivos de Media Móvil).
+
 • Manejo de la no estacionariedad: Un avance crucial ha sido el desarrollo de técnicas para manejar procesos no estacionarios, introduciendo conceptos como las raíces unitarias y la cointegración. Esto permite modelar series donde las propiedades estadísticas cambian con el tiempo. Se han desarrollado otros como los de  Dickey-Fuller (DF) y Augmented Dickey-Fuller (ADF), y así como los más recientes y fiables de Shin-Fuller y Davis-Chen-Dunsmuir .
+
 • Accesibilidad de la Inferencia Bayesiana: La inferencia bayesiana, que actualiza las creencias sobre parámetros a la luz de la evidencia, ha ganado una gran accesibilidad desde la revolución de las cadenas de Markov Monte Carlo (MCMC) en los años 90. Esto ha facilitado enormemente su aplicación a través de la simulación, superando las limitaciones anteriores que se centraban en distribuciones conjugadas.
+
 • Integración con Data Science y Machine Learning: Más recientemente, el modelado estadístico es una herramienta esencial en Data Science, permitiendo inferir resultados globales a partir de muestras, extraer conclusiones, sugerir predicciones e indicar hipótesis. Las tecnologías de Big Data e Inteligencia Artificial (IA) han acelerado la ejecución de estudios estadísticos y el desarrollo de modelos predictivos. Programas como R se han convertido en herramientas poderosas y populares para el análisis y modelado estadístico, ofreciendo extensas librerías y funcionalidades.
+
 En resumen, la evolución ha sido desde los fundamentos teóricos tempranos hacia la aplicación práctica con métodos cada vez más flexibles, capaces de manejar datos complejos y no estacionarios, y facilitada por avances computacionales y la integración con campos como Data Science y el aprendizaje automático.
 
 <img width="839" height="400" alt="image" src="https://github.com/user-attachments/assets/b362d9b7-75f5-4840-8929-b479214ee577" />
@@ -44,3 +56,5 @@ En resumen, la evolución ha sido desde los fundamentos teóricos tempranos haci
 La tecnología SCADA puede transformar positivamente los sistemas productivos bolivianos como: minería, energía, agua, etc. Porque permiten monitorear y controlar en tiempo real, optimizar procesos y reducir costos de mantenimiento u otros.
 Pero libros especializados (Krutz, Securing SCADA Systems) advierten que, sin ciberseguridad, capacitación local y estándares claros, aumenta el riesgo de vulnerabilidades y dependencia tecnológica.
 En mi opinión, si Bolivia implementa SCADA con planificación, seguridad y formación técnica nacional, puede aumentar notablemente su competitividad y calidad de servicios.
+
+Ultima modificación: Andrea 202509151557
