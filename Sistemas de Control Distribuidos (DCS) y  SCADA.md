@@ -2,6 +2,8 @@
 ##Arquitectura de sistemas DCS, supervisión
 remota de procesos industriales.##
 
+Investigación de: Mario Vidal Loa Fernandez
+
 #a). Autores destacados#
 
 La busqueda se hizo desde la aplicación Publish or Perish por lo que los autores más destacados son: 
