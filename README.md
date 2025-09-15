@@ -10,6 +10,7 @@ Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing E
 * Vidal <viloafer029@gmail.com>
 * Sergio Duarte <sergioduarteloza@gmail.com>
 * Marjorie Díaz <marjoriejohanadiazherrera@gmail.com>
+* Daniela Artero Salas <daniela.artero@ucb.edu.bo>
   
   
 
