@@ -11,6 +11,7 @@
 - [ ] GH Givens, JA Hoeting - Computational Statistics
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ab23a3c5-ad0e-4374-b927-b2f908d09772" />
 En lo que a libros se refiere el autor mas destacado es GH Givens, JA Hoeting - Computational Statistics
+
 ---
 
 ## 2. Libro más leído
