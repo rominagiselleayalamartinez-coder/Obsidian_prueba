@@ -10,7 +10,7 @@
 ## 1. Autor destacado
 - [ ] GH Givens, JA Hoeting - Computational Statistics
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ab23a3c5-ad0e-4374-b927-b2f908d09772" />
-
+En lo que a libros se refiere el autor mas destacado es GH Givens, JA Hoeting - Computational Statistics
 ---
 
 ## 2. Libro más leído
@@ -19,8 +19,7 @@ https://books.google.com.bo/books?hl=en&lr=&id=bCJx53VQS7IC&oi=fnd&pg=PA1&dq=com
 ---
 
 ## 3. Artículo científico
-**de que eposca es el articulo**
-- [ ] Statistics and computing,Springer,AJ Smola, B Scholkopf
+- [ ] Statistics and computing,Springer,AJ Smola, B Scholkopf este artículo data de los años 2004 y 2007
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/928f0b0f-c3f8-44e0-b22d-e4648f760b33" />
 <img width="276" height="369" alt="image" src="https://github.com/user-attachments/assets/f9311427-8cb5-44b4-834a-20a5e02dcc19" />
 
