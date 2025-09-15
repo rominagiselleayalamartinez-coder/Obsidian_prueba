@@ -1,4 +1,8 @@
-
-==Brazo robóticos, cobots, integración en líneas
-de producción.==
-
+[1 Autor destacado.md](https://github.com/user-attachments/files/22326745/1.Autor.destacado.md)
+[2 Libro de referencia.md](https://github.com/user-attachments/files/22326746/2.Libro.de.referencia.md)[Referencias.md](https://github.com/user-attachments/files/22326753/Referencias.md)
+[README.md](https://github.com/user-attachments/files/22326752/README.md)
+[Index.md](https://github.com/user-attachments/files/22326751/Index.md)
+[6 Conclusion.md](https://github.com/user-attachments/files/22326750/6.Conclusion.md)
+[5 Impacto SCADA en Bolivia.md](https://github.com/user-attachments/files/22326749/5.Impacto.SCADA.en.Bolivia.md)
+[4 Evolución histórica.md](https://github.com/user-attachments/files/22326748/4.Evolucion.historica.md)
+[3 Artículos científicos.md](https://github.com/user-attachments/files/22326747/3.Articulos.cientificos.md)
