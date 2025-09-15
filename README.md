@@ -15,6 +15,7 @@ Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing E
 * Agustin Gregorio Apaza Silvestre
 <agus23990@gmail.com>
 * Ponce Guzmán Deybbie Carla <deyponce15@gmail.com>
+* Sara Mariel Perez Yañez <sayita1689@gmail.com> 
   
   
 
