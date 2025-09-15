@@ -2,7 +2,7 @@
 
 La metodología de la investigación es el conjunto de enfoques, métodos, técnicas y procedimientos que guían la producción de conocimiento científico con rigor, validez y confiabilidad. En el ámbito iberoamericano se ha consolidado un corpus pedagógico que integra rutas cuantitativa, cualitativa y mixta, facilitando la formación universitaria y la práctica profesional en múltiples disciplinas. Entre los manuales y tratados más influyentes se encuentran las obras de *Hernández Sampieri* en español y *Creswell & Plano Clark* en inglés, ampliamente adoptadas en cursos de grado y posgrado.
 
-Existen dos tipos de metodologías de la invetigación
+Existen dos tipos de metodologías de la invetigación:
 
 - **Metodología Cuantitativa:** Este enfoque se centra en la recolección y análisis de datos numéricos. Busca cuantificar variables, establecer relaciones estadísticas y generalizar resultados a poblaciones más grandes. Es ideal para probar hipótesis, medir la magnitud de fenómenos y comparar grupos.
   - Características principales:
@@ -10,10 +10,28 @@ Existen dos tipos de metodologías de la invetigación
       - Utiliza instrumentos estandarizados como encuestas, cuestionarios y experimentos.
       - Busca la objetividad y la replicabilidad.
       - Se enfoca en la causalidad y la correlación.
+
+<img width="1024" height="1024" alt="Met  Cuantitativa" src="https://github.com/user-attachments/assets/addba594-8856-4e8a-8403-ef786f358220" />
+
   - Técnicas comunes:
       - Encuestas: Recopilación de datos a través de cuestionarios a una muestra representativa.
       - Experimentación: Manipulación de variables para observar su efecto en otras variables.
       - Análisis de datos secundarios: Utilización de bases de datos existentes.
+- **Metodología Cualitativa:** A diferencia de la cuantitativa, este enfoque busca comprender en profundidad los fenómenos, explorando significados, experiencias y perspectivas. Se centra en datos no numéricos como entrevistas, observaciones y análisis de contenido.
+  - Características principales:
+      - Interpretativa y subjetiva.
+      - Se enfoca en la comprensión de contextos y procesos.
+      - Utiliza técnicas flexibles y adaptables.
+      - Genera hipótesis y teorías, más que probarlas.
+  - Técnicas comunes:
+      - Entrevistas en profundidad: Conversaciones detalladas para explorar experiencias y opiniones.
+      - Grupos focales: Discusiones grupales para obtener diversas perspectivas.
+      - Observación participante: El investigador se involucra en el entorno estudiado.
+      - Análisis de contenido: Interpretación de textos, imágenes o videos.
+  
+  <img width="1024" height="1024" alt="Met  Cualitativaa" src="https://github.com/user-attachments/assets/4189db5c-c160-45f0-851f-e1e340ff50dd" />
+
+
 ## Autor destacado
 
 
