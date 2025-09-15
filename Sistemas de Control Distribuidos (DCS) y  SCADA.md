@@ -2,7 +2,7 @@
 ##Arquitectura de sistemas DCS, supervisión
 remota de procesos industriales.##
 
-#a). Autores destacados
+#a). Autores destacados#
 
 La busqueda se hizo desde la aplicación Publish or Perish por lo que los autores más destacados son: 
 
@@ -10,7 +10,7 @@ La busqueda se hizo desde la aplicación Publish or Perish por lo que los autore
 - W. R. Whittall
 - Emerson/DeltaV, Honeywell, ABB, Yokogawa
 
-#b). Libro más leido 
+#b). Libro más leido#
 
 Desde una perspectiva de busqueda donde el libro más leido y recomendado se pudo encontrar el siguiente: 
 
