@@ -27,12 +27,12 @@ Se trató de buscar artículos asociados a "Transformación Digital en Inventari
 2. Web-based supply chain system design using blockchain (Nofandi, Faris Janaputra, Muhammad R.B. Pratama, Rizki A.), año 2025. Enlace: https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2310-87892025000100010&lang=es
 3. Enhancing supply chain resilience: The impact of 4.0 technologies (Briatore, Federico Vanni, Francesca Mosca, Roberto Mosca, Marco), año 2025. Enlace: https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2310-87892025000100006&lang=es
 # d) Evolución a lo largo del tiempo del tema: 
-![[Pasted image 20250910114643.png]]
+[https://drive.google.com/file/d/1jyW5TbMN6mmu6wlWi6_r2LhSFZtCHkBV/view?usp=drive_link](https://drive.google.com/file/d/1jyW5TbMN6mmu6wlWi6_r2LhSFZtCHkBV/view?usp=drive_link)**
 **Fuente: [https://books.google.com/ngrams/](https://books.google.com/ngrams/)**
 
 Se revisó la evolución de dos temas asociados a la materia a través del sitio Google Books Ngram Viewer. Se introdujeron los temas de "Digital Transformation" y "Supply Chain", ambos de forma complementaria. Se puede ver que el tema de Supply Chain (Cadenas de suministro) tiene un nivel elevado de incremento en la tendencia de referencias en publicaciones, misma que habría empezado desde cerca a la década de los 90's. A partir de finales de los 2010s el tema de transformación digital ha estado empezando a ganar mayor relevancia. Por lo que ambos temas son de gran y creciente importancia. 
 
-![[Pasted image 20250910115418.png]]
+[https://drive.google.com/file/d/1nm1umhwSrcdTUV9OxYdlw-y40wePWYUt/view?usp=drive_link](https://drive.google.com/file/d/1nm1umhwSrcdTUV9OxYdlw-y40wePWYUt/view?usp=drive_link)**
 **Fuente: [https://books.google.com/ngrams/](https://books.google.com/ngrams/)**
 
 Por otra parte, se buscó el término "Supply Chain 4.0" en Google Books Ngram Viewer, obteniéndose como resultado la línea de tendencia mostrada en la gráfica previa. Se puede ver que el tema está teniendo una tendencia de elevado crecimiento desde finales de los 2010s hasta el presente. 
@@ -47,7 +47,7 @@ Se introdujo el tema "Transformación Digital en Inventarios y Almacenes" en la 
 - ¿Qué es la gestión del almacén 4.0? (https://nexusintegra.io/es/que-es-gestion-almacen-4-0/)
 - ¿Qué es la automatización de Centros de Distribución? (https://www.elementlogic.net/mx/blogs/que-es-la-automatizacion-de-centros-de-distribucion/)
 
-![[Pasted image 20250911130022.png]]
+[https://drive.google.com/file/d/1TPmh21L9Tw5J4LH0ZDuw5aRBN67qKbqj/view?usp=drive_link](https://drive.google.com/file/d/1TPmh21L9Tw5J4LH0ZDuw5aRBN67qKbqj/view?usp=drive_link)**
 
 Analizando la información proporcionada por la aplicación, se puede brindar una opinión acerca del tema. 
 
