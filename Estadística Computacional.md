@@ -8,12 +8,13 @@
 
 ## 1. Autor destacado
 - [ ]
-- [ ] <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2fb80b6c-33e3-417e-891b-12a609ca1d2a" />
+-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/928f0b0f-c3f8-44e0-b22d-e4648f760b33" />
 
 ---
 
 ## 2. Libro más leído
-- [ ] Identificar el libro más reconocido sobre el tema
+- [ ] <img width="276" height="369" alt="image" src="https://github.com/user-attachments/assets/f9311427-8cb5-44b4-834a-20a5e02dcc19" />
+
 - [ ] Escribir resumen del contenido
 
 ---
