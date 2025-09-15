@@ -7,8 +7,9 @@
 ---
 
 ## 1. Autor destacado
-- [ ] Investigar nombre del autor más relevante
-- [ ] Escribir breve descripción de su aporte 
+- [ ]
+- [ ] <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2fb80b6c-33e3-417e-891b-12a609ca1d2a" />
+
 ---
 
 ## 2. Libro más leído
