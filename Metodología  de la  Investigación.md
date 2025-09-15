@@ -14,11 +14,13 @@ La metodología de la investigación es el conjunto de enfoques, métodos, técn
   
 En el espacio hispanohablante, el manual * *Metodología de la investigación: Las rutas cuantitativa, cualitativa y mixta (McGraw-Hill)* es, con alta probabilidad, el libro más leído y adoptado en cursos de metodología. El sello editorial lo presenta como un texto transversal para carreras de salud, sociales, jurídicas, administrativas e ingenierías; y universidades de toda el habla hispana lo reseñan como manual de referencia para cursos introductorios, intermedios y avanzados.
 
+![Metodología de la Investigación](https://github.com/user-attachments/assets/3d8207ed-6410-453c-9ca7-1fd141214d9b)
 
 
 ## Artículo científico sobre el tema
 
-- **Aragón-Ayala, C. J., et al. (2020). “Método de búsqueda para detectar si una investigación…”.** _Revista Cubana de Información en Ciencias de la Salud_ (SciELO Cuba). El artículo aborda filtros metodológicos y prácticas de búsqueda rigurosas, discutiendo criterios de calidad y reproducibilidad de hallazgos. [SciELO](https://scielo.sld.cu/scielo.php?pid=S1729-519X2020000600019&script=sci_arttext&utm_source=chatgpt.com)
+- **Aragón-Ayala, C. J., et al. (2020). “Método de búsqueda para detectar si una investigación…”.** _Revista Cubana de Información en Ciencias de la Salud_ (SciELO Cuba). El artículo aborda filtros metodológicos y prácticas de búsqueda rigurosas, discutiendo criterios de calidad y reproducibilidad de hallazgos.
+(http://scielo.sld.cu/scielo.php?pid=S1729-519X2020000600019&script=sci_arttext&tlng=pt)
     
 El artículo se centra en desarrollar y comparar la eficacia y eficiencia de diversos métodos de búsqueda para identificar si una tesis académica ha sido publicada posteriormente en una revista científica. Los autores evalúan cinco métodos existentes junto con una propuesta propia (Método F), poniendo a prueba todos ellos con cinco tesis de medicina previamente publicadas. Los hallazgos revelan que el Método F, junto con el Método D, fueron los más exitosos, localizando todas las publicaciones con la mayor eficiencia al utilizar solo dos estrategias de búsqueda, principalmente a través de Google Scholar y PubMed. El propósito principal es ofrecer una herramienta más fiable para el monitoreo de la producción científica universitaria y mejorar los análisis bibliográficos.
 
@@ -42,9 +44,9 @@ La evolución histórica puede sintetizarse en cinco hitos:
 
 - Convergencia y métodos mixtos (1990–presente). Se consolida el enfoque mixto (integración cuali–cuanti) como “tercer movimiento metodológico”, con manuales estándar (Creswell & Plano Clark; Tashakkori & Teddlie). La literatura reporta crecimiento sostenido de diseños convergentes, explicativos y exploratorios secuenciales. Evidencia empírica en revistas iberoamericanas sugiere un desplazamiento: predominio cuantitativo en la etapa 1997–2000; ascenso de lo cualitativo (2005–2007) y, desde 2000, expansión de opciones integradoras (mixtas).
 
-- ## Técnología SCADA en Bolivia
+## Técnología SCADA en Bolivia
 
-<Saguapac.jpg>
+![Saguapac](https://github.com/user-attachments/assets/b8b229f5-6f07-44b7-b690-81744211359c)
 
 En junio del presente año, SAGUAPAC la cooperativa de agua del departamento de Santa Cruz, publicó la mejora de conexiones, así como el monitoreo total de sus alcantarillados y redes de distribución de agua mediante la tecnología SCADA.
 
