@@ -18,6 +18,7 @@ https://books.google.com.bo/books?hl=en&lr=&id=bCJx53VQS7IC&oi=fnd&pg=PA1&dq=com
 ---
 
 ## 3. Artículo científico
+**de que eposca es el articulo**
 - [ ] Statistics and computing,Springer,AJ Smola, B Scholkopf
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/928f0b0f-c3f8-44e0-b22d-e4648f760b33" />
 <img width="276" height="369" alt="image" src="https://github.com/user-attachments/assets/f9311427-8cb5-44b4-834a-20a5e02dcc19" />
@@ -32,7 +33,14 @@ https://books.google.com.bo/books?hl=en&lr=&id=bCJx53VQS7IC&oi=fnd&pg=PA1&dq=com
 
 ---
 
-## 5. Opinión personal Deberán señalar también de qué época es el artículo y un par de líneas sobre lo que piensas respecto del aporte que estos cursos que desarrollarán otros profesores podría aportarte en tu carrera profesional, así como el impacto que tendría en Bolivia.
+## 5. Opinión personal  
+
+**Aporte a mi carrera profesional**
+La toma de decisiones informadas en esta epoca ya no es algo que se **puede** considerar, si no es mas como un **debe** y la estadistica computacional representa una herramienta imprescindible,para mi formación profesional estar a la vanguardia en este tema me pemritiría aportar a la sociedad desde las actividades que realizo o realizaré en el futuro.
+Tengo algo de experiencia con respecto a RStudio y se que el siguiente paso es comenzar por el mundo de Python que segun los resultados de Ngram es un tema que actualmente sigue en ascenso.
+
+---
+
 **Impacto potencial en Bolivia**
 - [ ] 1. Simulación de Monte Carlo
 
