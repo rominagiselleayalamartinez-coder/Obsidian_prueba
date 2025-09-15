@@ -1,10 +1,10 @@
 # Obsidian_prueba
 
-Esta es una prueba que Romina está haciendo para investigar como utilizar **Obsidian** en github
+Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing Estrategies de la Maestría en Excelencia Operacional e Inteligencia Empresarial
 
-## Grupo 2
+## Nombres y Correo
 
-* Romina <romiayalacontacto@gmail.com>
+* Romina Giselle Ayala Martinez <romiayalacontacto@gmail.com>
 * Boris <boris.alvarez.jimenez@gmail.com>
 * Mariana <marianabedoyabarrero@gmail.com>
 * Vidal <viloafer029@gmail.com>
@@ -13,4 +13,4 @@ Esta es una prueba que Romina está haciendo para investigar como utilizar **Obs
   
   
 
-Última modificación Romina 202509012024 
+Última modificación Romina 202509151709 
