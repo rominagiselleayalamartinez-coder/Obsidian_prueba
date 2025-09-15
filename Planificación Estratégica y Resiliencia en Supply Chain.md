@@ -27,13 +27,14 @@ Elementos clave:
   
 **Relación entre ambas**
 
-La planificación estratégica establece el marco para operar con eficiencia y visión futura.
-La resiliencia complementa asegurando continuidad y adaptación en contextos inciertos.
-Juntas permiten una cadena competitiva, sostenible y preparada para crisis (como pandemias, conflictos geopolíticos o cambio climático).
-*Bibliografía sugerida*
-Chopra, S., & Meindl, P. (2023). Supply Chain Management: Strategy, Planning, and Operation (8th ed.). Pearson.
-Christopher, M. (2016). Logistics & Supply Chain Management (5th ed.). Pearson Education.
-Ivanov, D., Tsipoulanidis, A., & Schönberger, J. (2019). Global Supply Chain and Operations Management: A Decision-Oriented Introduction to the Creation of Value. Springer.
-Pettit, T. J., Croxton, K. L., & Fiksel, J. (2019). The evolution of resilience in supply chain management: A retrospective on ensuring supply chain resilience. Journal of Business Logistics, 40(1), 56–65. https://doi.org/10.1111/jbl.12202
-Sheffi, Y. (2015). The Power of Resilience: How the Best Companies Manage the Unexpected. MIT Press.
-Wieland, A., & Wallenburg, C. M. (2013). The influence of relational competencies on supply chain resilience: A relational view. International Journal of Physical Distribution & Logistics Management, 43(4), 300–320. https://doi.org/10.1108/IJPDLM-08-2012-0243
+- La planificación estratégica establece el marco para operar con eficiencia y visión futura.
+- La resiliencia complementa asegurando continuidad y adaptación en contextos inciertos.
+- Juntas permiten una cadena competitiva, sostenible y preparada para crisis (como pandemias, conflictos geopolíticos o cambio climático).
+
+**Bibliografía sugerida**
+- Chopra, S., & Meindl, P. (2023). Supply Chain Management: Strategy, Planning, and Operation (8th ed.). Pearson.
+- Christopher, M. (2016). Logistics & Supply Chain Management (5th ed.). Pearson Education.
+- Ivanov, D., Tsipoulanidis, A., & Schönberger, J. (2019). Global Supply Chain and Operations Management: A Decision-Oriented Introduction to the Creation of Value. Springer.
+- Pettit, T. J., Croxton, K. L., & Fiksel, J. (2019). The evolution of resilience in supply chain management: A retrospective on ensuring supply chain resilience. Journal of Business Logistics, 40(1), 56–65. https://doi.org/10.1111/jbl.12202
+- Sheffi, Y. (2015). The Power of Resilience: How the Best Companies Manage the Unexpected. MIT Press.
+- Wieland, A., & Wallenburg, C. M. (2013). The influence of relational competencies on supply chain resilience: A relational view. International Journal of Physical Distribution & Logistics Management, 43(4), 300–320. https://doi.org/10.1108/IJPDLM-08-2012-0243
