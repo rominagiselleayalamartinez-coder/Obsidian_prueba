@@ -22,7 +22,7 @@ Elementos clave:
 - Digitalización: monitoreo en tiempo real y respuesta rápida a disrupciones.
 - Sostenibilidad: prácticas circulares que reducen riesgos de escasez.
 - Capacidad de aprendizaje: transformar crisis en oportunidades de mejora.
-  ![Uploading image.png…]()
+ ![1684276435642](https://github.com/user-attachments/assets/550094dd-4ce5-467e-aa8e-83b9f1729594)
 
   
 **Relación entre ambas**
@@ -31,8 +31,10 @@ Elementos clave:
 - La resiliencia complementa asegurando continuidad y adaptación en contextos inciertos.
 - Juntas permiten una cadena competitiva, sostenible y preparada para crisis (como pandemias, conflictos geopolíticos o cambio climático).
 
+<img width="1900" height="1320" alt="output" src="https://github.com/user-attachments/assets/b03e7768-fbb5-4457-9006-ff935fb367ff" />
+
 **a) Autores destacados**
-1. Martin Christopher
+**1. Martin Christopher**
 
 Considerado uno de los padres de la gestión de la cadena de suministro moderna.
 
@@ -40,7 +42,7 @@ Ha trabajado mucho en logística, planificación estratégica y cadenas centrada
 
 Libro clave: Logistics & Supply Chain Management (2016).
 
-2. Yossi Sheffi
+**2. Yossi Sheffi**
 
 Profesor del MIT, experto en resiliencia y gestión de riesgos en cadenas de suministro.
 
@@ -48,13 +50,13 @@ Ha estudiado cómo las empresas enfrentan crisis globales y disrupciones.
 
 Libro clave: The Power of Resilience (2015).
 
-3. Sunil Chopra
+**3. Sunil Chopra**
 
 Coautor del libro de referencia Supply Chain Management: Strategy, Planning, and Operation.
 
 Enfocado en la planificación estratégica, diseño de redes logísticas y decisiones de largo plazo.
 
-4. Dmitry Ivanov
+**4. Dmitry Ivanov**
 
 Reconocido investigador en resiliencia dinámica, digitalización y disrupciones en cadenas globales.
 
@@ -62,12 +64,19 @@ Ha publicado extensamente sobre modelos de resiliencia tras COVID-19 y crisis in
 
 Libro: Global Supply Chain and Operations Management (2019).
 
-5. Tom Pettit / Joseph Fiksel
+**5. Tom Pettit / Joseph Fiksel**
 
 Pettit y Fiksel han desarrollado marcos conceptuales sobre resiliencia en cadenas de suministro.
 
 Artículo clave: Pettit, Croxton & Fiksel (2019) “The evolution of resilience in supply chain management”.
 
+**Cuadro comparativo de autores**
+Autor	Enfoque Principal	Contribución Relevante	Obra/Referencia Clave
+Martin Christopher	Logística y planificación estratégica de la cadena de suministro	Introdujo el concepto de cadenas de suministro orientadas al cliente y la ventaja competitiva desde la logística	Logistics & Supply Chain Management (2016)
+Sunil Chopra	Estrategia, diseño y planificación de cadenas	Desarrollo de marcos estratégicos para diseño de redes, inventarios y coordinación global	Supply Chain Management: Strategy, Planning, and Operation (2023)
+Yossi Sheffi	Resiliencia y gestión de riesgos	Estudió cómo las empresas sobreviven y se fortalecen tras disrupciones globales	The Power of Resilience (2015)
+Dmitry Ivanov	Resiliencia dinámica y digitalización	Propuso modelos de simulación y respuesta ante disrupciones (COVID-19, crisis globales)	Global Supply Chain and Operations Management (2019)
+Tom Pettit / Joseph Fiksel	Resiliencia en cadenas de suministro	Desarrollaron marcos de evaluación y evolución de la resiliencia organizacional	Pettit, Croxton & Fiksel (2019). Journal of Business Logistics
 
 **b) Libros mas leidos**
 - Chopra, S., & Meindl, P. (2023). Supply Chain Management: Strategy, Planning, and Operation (8th ed.). Pearson.
@@ -76,3 +85,6 @@ Artículo clave: Pettit, Croxton & Fiksel (2019) “The evolution of resilience 
 - Pettit, T. J., Croxton, K. L., & Fiksel, J. (2019). The evolution of resilience in supply chain management: A retrospective on ensuring supply chain resilience. Journal of Business Logistics, 40(1), 56–65. https://doi.org/10.1111/jbl.12202
 - Sheffi, Y. (2015). The Power of Resilience: How the Best Companies Manage the Unexpected. MIT Press.
 - Wieland, A., & Wallenburg, C. M. (2013). The influence of relational competencies on supply chain resilience: A relational view. International Journal of Physical Distribution & Logistics Management, 43(4), 300–320. https://doi.org/10.1108/IJPDLM-08-2012-0243
+
+  **c) Articulos cientificos que hablan del tema**
+  
