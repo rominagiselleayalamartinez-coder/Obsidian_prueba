@@ -7,19 +7,15 @@
 
 ---
 
-## 1. Autor destacado
+## 1. Autor destacado y Libro más leído
 - [ ] GH Givens, JA Hoeting - Computational Statistics
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ab23a3c5-ad0e-4374-b927-b2f908d09772" />
-En lo que a libros se refiere el autor mas destacado es GH Givens, JA Hoeting - Computational Statistics
-
----
-
-## 2. Libro más leído
+En lo que a libros se refiere el autor mas destacado es GH Givens, JA Hoeting - Computational Statistics adjunto el link del libro
 https://books.google.com.bo/books?hl=en&lr=&id=bCJx53VQS7IC&oi=fnd&pg=PA1&dq=computational+statistics&ots=XiO2I7nHHA&sig=MK2Rz55dGeGEY5H3bPZA_WT5vms&redir_esc=y#v=onepage&q=computational%20statistics&f=false
 
 ---
 
-## 3. Artículo científico
+## 2. Artículo científico
 - [ ] Statistics and computing,Springer,AJ Smola, B Scholkopf este artículo data de los años 2004 y 2007
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/928f0b0f-c3f8-44e0-b22d-e4648f760b33" />
 <img width="276" height="369" alt="image" src="https://github.com/user-attachments/assets/f9311427-8cb5-44b4-834a-20a5e02dcc19" />
@@ -28,14 +24,14 @@ https://books.google.com.bo/books?hl=en&lr=&id=bCJx53VQS7IC&oi=fnd&pg=PA1&dq=com
 
 ---
 
-## 4. Evolución del tema a lo largo del tiempo
+## 3. Evolución del tema a lo largo del tiempo
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d07e3a0c-d464-497f-9b13-48d86cd352df" />
 Se puede evidenciar que Python es un tema que va en ascenso de interés a diferencia del metodo Monte Carlo que tiene una tendencia de descenso en la actualidad.
 
 ---
 
-## 5. Opinión personal  
+## 4. Opinión personal  
 
 **Aporte a mi carrera profesional**
 La toma de decisiones informadas en esta epoca ya no es algo que se **puede** considerar, si no es mas como un **debe** y la estadistica computacional representa una herramienta imprescindible para mi formación profesional, estar a la vanguardia en este tema me pemritiría aportar a la sociedad desde las actividades que realizo o realizaré en el futuro.
