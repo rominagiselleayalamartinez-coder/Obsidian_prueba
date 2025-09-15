@@ -2,7 +2,7 @@
 
 # Métodos de inferencia y modelado estadístico
 
-##Andrea Verónica Mejía Adiázola <amejia.va@gmail.com>
+## Andrea Verónica Mejía Adiázola <amejia.va@gmail.com>
 
 ## 1. ¿Quién es el autor destacado?
 • R. A. Fisher fue el autor que elaboró el método fundamental en inferencia estadística "máxima verosimilitud" a principios del siglo XX1. Fue  el arquitecto principal de una de las formas más ingeniosas de "adivinar" lo que está pasando en un sistema complejo, basándose en la información que tenemos. Otros, antes que él, como Gauss o Laplace, ya la usaban, pero Fisher la popularizó y formalizó.
@@ -27,6 +27,12 @@ De acuero a la busqueda obtenida en Hazings Publish or Perish, se obtuvo que el 
 <img width="198" height="300" alt="image" src="https://github.com/user-attachments/assets/4de48947-2bc4-4224-922f-f6cb1386e0e9" />
 
 TD Cook, CS Reichardt, JMÁ Méndez, Métodos cualitativos y cuantitativos en investigación evaluativa, 1986.
+
+El libro mas vendido es:
+
+<img width="178" height="278" alt="image" src="https://github.com/user-attachments/assets/6647ca49-3922-42a7-96ad-ab6e6b5f124f" />
+
+Sonia Olga López Alfaro,; ANOVA E INFERENCIA ESTADÍSTICA PARA CORRELACIÓN Y REGRESIÓN: Estadística General - Enfoque Teórico (EL SECRETO ESTADISTICO nº 10); 2011
 
 ## 3. Artículos científicos
 El documento "Cuadro comparativo de Análisis Paramétrico y No Paramétrico" de la Universidad Autónoma del Estado de Hidalgo es un artículo científico del tema, sus autores son Rocío B. Mayorga-Ponce, Diana C. Graciano-Ventura, Anahí M. Hernández, Paola M. Moctezuma-Jiménez, Berenice Pérez-Galindo y Adamary Roldan-Carpio910. Este artículo compara las características y aplicaciones de las pruebas estadísticas paramétricas y no paramétricas, siendo el articulo más popular. Nos  ayuda a entender dos grandes "kits de herramientas" que los estadísticos usan para analizar datos, dependiendo de si estos datos siguen patrones conocidos o son más impredecibles.
@@ -55,6 +61,8 @@ La evolución de la inferencia y el modelado estadístico ha sido significativa:
 En resumen, la evolución ha sido desde los fundamentos teóricos tempranos hacia la aplicación práctica con métodos cada vez más flexibles, capaces de manejar datos complejos y no estacionarios, y facilitada por avances computacionales y la integración con campos como Data Science y el aprendizaje automático.
 
 <img width="839" height="400" alt="image" src="https://github.com/user-attachments/assets/b362d9b7-75f5-4840-8929-b479214ee577" />
+
+<img width="820" height="394" alt="image" src="https://github.com/user-attachments/assets/507f89a4-ea21-44be-928a-cbb5b78b0427" />
 
 ## 5. Opinión sobre los impactos de la tecnología SCADA sobre los sistemas productivos de mi país Bolivia
 La tecnología SCADA puede transformar positivamente los sistemas productivos bolivianos como: minería, energía, agua, etc. Porque permiten monitorear y controlar en tiempo real, optimizar procesos y reducir costos de mantenimiento u otros.
