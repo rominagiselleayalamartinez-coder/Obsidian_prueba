@@ -1,5 +1,7 @@
 # Gestion de Datos 
 Mariana Bedoya Barrero
+
+
 La **Gestión de Datos** es un concepto fundamental y cada vez más vital en la era del Big Data, especialmente en entornos indusstriales y empresariales. Las fuentes la abordan tanto desde una perspectiva conceptual y metodológica como a través de ejemplos prácticos que ilustran su importancia y aplicación.
 La gestión de datos se refiere al **manejo de la información desde su recolección hasta su procesamiento**. Implica la necesidad de gestionar volúmenes de información cada vez mayores, comúnmente denominados Big Data. Los autores categorizan la gestión de datos en tres grupos principales:
 
@@ -101,14 +103,14 @@ Los autores y revisores enfatizan que el Big Data es una fuerza imparable y dura
 <img width="270" height="407" alt="image" src="https://github.com/user-attachments/assets/c1cbb21b-65f7-4731-a6c3-bc58e083b360" />
 
 
-#Artículo científico 
+# Artículo científico 
 El documento "BIG DATA, UN SISTEMA DE GESTIÓN DE DATOS" de Ángel Gómez Degraves, un PhD en Estadística Aplicada y Organizaciones Inteligentes, explora la creciente importancia de Big Data como una nueva revolución industrial en la transformación empresarial. El estudio, realizado en 2021, presenta una investigación exploratoria documental que analiza el auge de Big Data y su aplicación en la reducción de tiempos de captura, organización, almacenamiento, procesamiento y análisis de grandes volúmenes de datos. Se abordan aspectos clave como la definición de Big Data, sus tipos de datos (estructurados, semiestructurados y no estructurados), las dimensiones conocidas como las "V" (Volumen, Velocidad, Variedad, Valor y Veracidad), y las herramientas tecnológicas y técnicas empleadas para su tratamiento, destacando Apache Hadoop como una solución fundamental. El autor concluye que Big Data es una respuesta esencial para la gestión de datos, la obtención de información y conocimiento, y la mejora de la competitividad empresarial, a pesar de los desafíos de implementación.
 
 Autor: Ángel Gómez Degraves PhD in Applied Statistics and Intelligent Organizations, Tecana American University, of the USA
 gomezdegraves@gmail.com
 2021
 
-Journal of Intelligent Manufacturing https://doi.org/10.1007/s10845-025-02570-z
+**Journal of Intelligent Manufacturing** https://doi.org/10.1007/s10845-025-02570-z
 Data management in industry: concepts, systematic review and future directions
 Nelson Freitas1 · Andre Dionisio Rocha1 · Jose Barata1
 Received: 22 May 2024 / Accepted: 10 January 2025 © The Author(s) 2025
