@@ -24,11 +24,12 @@ https://books.google.com.bo/books?hl=en&lr=&id=bCJx53VQS7IC&oi=fnd&pg=PA1&dq=com
 ---
 
 ## 3. Artículo científico
-- [ ] Seleccionar al menos un artículo relevante  
-- [ ] Referencias:
-- [ ] Ximénez, M. Carmen; García, Ana G. Comparación de los métodos de estimación de máxima verosimilitud y mínimos cuadrados no ponderados en el análisis factorial confirmatorio mediante simulación Monte Carlo Psicothema, vol. 17, núm. 3, 2005, pp. 528-535 Universidad de Oviedo Oviedo, España.
-- [ ] Ramírez, Isabel C., Barrera, Carlos J., & Correa, Juan C.. (2013). Efecto del tamaño de muestra y el número de réplicas bootstrap. Ingeniería y competitividad, 15(1), 93-101. Retrieved September 14, 2025, from http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0123-30332013000100009&lng=en&tlng=es.
-- [ ] Challenger-Pérez, Ivet; Díaz-Ricardo, Yanet; Becerra-García, Roberto Antonio El lenguaje de programación Python Ciencias Holguín, vol. XX, núm. 2, abril-junio, 2014, pp. 1-13 Centro de Información y Gestión Tecnológica de Santiago de Cuba Holguín, Cuba
+- [ ] AJ Smola, B Scholkopf,
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/928f0b0f-c3f8-44e0-b22d-e4648f760b33" />
+<img width="276" height="369" alt="image" src="https://github.com/user-attachments/assets/f9311427-8cb5-44b4-834a-20a5e02dcc19" />
+
+- [ ] Statistics and computing,Springer,AJ Smola, B Scholkopf
+- [ ] Este material abarca el amplio campo de la estadística computacional, haciendo hincapié en la inferencia computacional como un componente esencial de los métodos estadísticos. Comienza con una revisión de conceptos matemáticos fundamentales, como vectores, matrices y funciones, destacando la importancia de herramientas como las descomposiciones matriciales y las normas en espacios vectoriales para el análisis de datos. Luego, el texto examina la aritmética informática y la representación de números, junto con los errores en los cálculos numéricos y la eficiencia algorítmica. Posteriormente, se exploran métodos de aproximación de funciones, integración numérica y generación de números aleatorios, incluyendo técnicas de Monte Carlo y cadenas de Markov Monte Carlo (MCMC). Se adentra en métodos gráficos interactivos para la visualización de datos multidimensionales, la identificación de estructuras mediante transformaciones de datos y medidas de similitud. Finalmente, aborda la estimación no paramétrica de funciones de densidad de probabilidad, algoritmos de agrupamiento para descubrir estructuras en los datos, y modelos estadísticos de dependencia para la predicción y clasificación, como el análisis de componentes principales y los métodos de aprendizaje automático
 
 ---
 
