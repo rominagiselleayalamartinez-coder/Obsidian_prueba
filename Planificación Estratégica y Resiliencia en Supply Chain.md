@@ -1,5 +1,7 @@
 ==Gestión de riesgos, diseño de cadenas de suministro sostenibles.==
 
+**Autor: Sara Mariel Perez Yañez**
+
 **Planificación Estratégica en Supply Chain**
 
 La planificación estratégica de la cadena de suministro (SCM) busca alinear las operaciones logísticas con los objetivos globales de la empresa.
