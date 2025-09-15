@@ -17,7 +17,7 @@ Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing E
 * Ponce Guzmán Deybbie Carla <deyponce15@gmail.com>
 * Sara Mariel Perez Yañez <sayita1689@gmail.com>
 * Jerlin Garcia Calle <jerlingarciac@gmail.com>
-  
+* Valeria Estefania Chavez Rivamontan <vchavez@ucb.edu.bo>
   
 
-Última modificación Jerlin 202509151842
+Última modificación Valeria 202509151850
