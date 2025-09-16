@@ -164,12 +164,12 @@ La **Ciencia de Datos** nace de la evolución de la estadística hacia una cienc
 
 **Evolución del Big Data**
 
-·        1940s–1960s → Primeras computadoras, cintas magnéticas y discos duros.
-·        1970s → Edgar F. Codd desarrolla el modelo relacional (SQL).
-·        1990s → Auge de internet y data warehouses. Aparece el término _Big Data_.
-·        2000s → Google desarrolla MapReduce → nace Hadoop. Doug Laney define las 3V (Volumen, Velocidad, Variedad).
-·        2010s → Redes sociales, smartphones e IoT generan explosión de datos. Se amplía a 5V (Veracidad y Valor).
-·        2020s–2025 → Big Data integrado con IA, computación en la nube, blockchain e IoT, consolidándose como base de la economía digital.
+·        **1940s–1960s** → Primeras computadoras, cintas magnéticas y discos duros.
+·        **1970s** → Edgar F. Codd desarrolla el modelo relacional (SQL).
+·        **1990s** → Auge de internet y data warehouses. Aparece el término _Big Data_.
+·        **2000s** → Google desarrolla MapReduce → nace Hadoop. Doug Laney define las 3V (Volumen, Velocidad, Variedad).
+·        **2010s** → Redes sociales, smartphones e IoT generan explosión de datos. Se amplía a 5V (Veracidad y Valor).
+·        **2020s–2025** → Big Data integrado con IA, computación en la nube, blockchain e IoT, consolidándose como base de la economía digital.
 
 **Evolución de la Ciencia de Datos
 
