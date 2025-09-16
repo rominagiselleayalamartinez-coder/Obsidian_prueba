@@ -1,7 +1,7 @@
-### **CIENCIA DE DATOS - BIG DATA
+### CIENCIA DE DATOS - BIG DATA
 ### Big Data
 
-## **Introducción
+## Introducción
 
 **Definición Big Data:** es el conjunto de datos que por su volumen (cantidad), velocidad (rapidez con que se generan y procesan) y variedad (diversidad de formatos) no pueden ser gestionados eficazmente con las herramientas tradicionales de bases de datos.
 
@@ -90,7 +90,7 @@ De la necesidad de procesar y gestionar grandes volúmenes de datos nacen:
 	o   Segmentación avanzada, publicidad personalizada, análisis de sentimientos.
 
 
-## **¿Quién es el autor destacado?
+## - ¿Quién es el autor destacado?
 
 ·        **Viktor Mayer-Schönberger y Kenneth Cukier** – Autores del libro _Big Data: A Revolution That Will Transform How We Live, Work, and Think_ (2013).
 
@@ -103,7 +103,7 @@ De la necesidad de procesar y gestionar grandes volúmenes de datos nacen:
 ·        **Cathy O’Neil** – Autora de _Weapons of Math Destruction_ (2016). Reconocida por su enfoque crítico sobre los riesgos éticos y sociales del big data.
 
 
-## **- ¿Qué libro es el más leído?** 
+## - ¿Qué libro es el más leído?** 
 ###### Libros de Ciencia de Datos Populares
 
 Estos son algunos de los libros más influyentes y ampliamente recomendados en el campo de la ciencia de datos:
