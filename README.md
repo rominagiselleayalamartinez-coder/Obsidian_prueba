@@ -20,6 +20,7 @@ Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing E
 * Valeria Estefania Chavez Rivamontan <vchavez@ucb.edu.bo>
 * Sergio Armijo Cabrerizo <armix756@gmail.com>
 * Estefanía Montero Cano <estefania.montero@ucb.edu.bo>
+* Diego Villarroel Sanabria <dievilsan@gmail.com>
   
 
-Última modificación Estefanía 202509152056
+Última modificación Diego 202509152129
