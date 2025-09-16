@@ -2,7 +2,8 @@
 
 Principios de física de fábricas, control de
 flujo, balanceo de líneas, métricas de
-eficiencia productiva (temas desarrollados en el módulo 2)
+eficiencia productiva (temas desarrollados en el módulo 2).
+Realizado por: Estefanía Montero Cano <estefania.montero@ucb.edu.bo>
 
 ---
 
