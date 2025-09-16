@@ -29,5 +29,6 @@ Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing E
 * Jasiel Jimena Sanjines Calatayud <jasielsanjines@gmail.com>
 * Raul Eduardo Aguilera Z <edduard164@gmail.com>
 * Boris Ramirez Chumacero <bramirez@ucb.edu.bo>
+* Adrian Esprella Rivera <adrianesprella78@gmail.com>
 
 Última modificación Boris Ramirez 202516091403
