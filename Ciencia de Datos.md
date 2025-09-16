@@ -114,7 +114,7 @@ De la necesidad de procesar y gestionar grandes volúmenes de datos nacen:
 
 
 ## - ¿Qué libro es el más leído?** 
-###### Libros de Ciencia de Datos Populares
+### Libros de Ciencia de Datos Populares
 
 Estos son algunos de los libros más influyentes y ampliamente recomendados en el campo de la ciencia de datos:
 
@@ -126,7 +126,7 @@ Estos son algunos de los libros más influyentes y ampliamente recomendados en e
 
 ·  **"Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow"** de Aurélien Géron: Un libro muy práctico que enseña a implementar algoritmos de machine learning y deep learning, perfecto para quienes quieren pasar de la teoría a la práctica.
 
-###### Libros de Big Data Populares
+### Libros de Big Data Populares
 
 En el ámbito del Big Data, los libros se centran a menudo en las implicaciones empresariales y tecnológicas de manejar grandes volúmenes de datos.
 
@@ -179,7 +179,7 @@ La **Ciencia de Datos** nace de la evolución de la estadística hacia una cienc
 ·        **2010s** → Redes sociales, smartphones e IoT generan explosión de datos. Se amplía a 5V (Veracidad y Valor).
 ·        **2020s–2025** → Big Data integrado con IA, computación en la nube, blockchain e IoT, consolidándose como base de la economía digital.
 
-**Evolución de la Ciencia de Datos
+**Evolución de la Ciencia de Datos**
 
 ·        **1962** → John W. Tukey publica _The Future of Data Analysis_: plantea que el análisis de datos debe asumirse como una ciencia empírica.
 ·        **1974** → Peter Naur acuña el término “Data Science”.
