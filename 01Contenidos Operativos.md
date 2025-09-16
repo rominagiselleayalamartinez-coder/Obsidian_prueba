@@ -37,3 +37,8 @@ Robótica  Industrial
 Ciberseguridad en Industria 4.0
 
 [[Ciberseguridad en Industria 4.0]]
+
+Simulación Optimización Digital Twins
+
+[[Simulación Optimización Digital Twins.md]]
+
