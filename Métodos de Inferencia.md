@@ -22,7 +22,7 @@ Aunque las fuentes mencionan varios libros de texto y recursos, uno de los más 
 • "Time Series Analysis – Forecasting and Control (3rd edition)" de Box, G.E.P., Jenkins, G.M., y Reinsel, G.C. (1994, Prentice Hall)12. Este libro es una referencia fundamental en el campo, y el autor José Alberto Mauricio señala que es muy complejo encontrar manuales de Econometría o de Análisis de Series Temporales aplicado a la Economía, en los que no se mencionen los modelos VARMA, lo que implica una fuerte base en los modelos de Box-Jenkins.
 Adicionalmente, "An Introduction to Statistical Learning w/ R" es un libro accesible y también se encuentra online, siendo popular por su aprendizaje práctico.
 
-De acuero a la busqueda obtenida en Hazings Publish or Perish, se obtuvo que el libro mas cosultado es:
+De acuerdo a la busqueda obtenida en Hazings Publish or Perish, se obtuvo que el libro mas cosultado es:
 
 <img width="198" height="300" alt="image" src="https://github.com/user-attachments/assets/4de48947-2bc4-4224-922f-f6cb1386e0e9" />
 
