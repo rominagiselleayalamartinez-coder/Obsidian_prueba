@@ -18,7 +18,7 @@ https://books.google.com.bo/books?hl=en&lr=&id=bCJx53VQS7IC&oi=fnd&pg=PA1&dq=com
 
 ## 2. Artículo científico
 - [ ] [[Smola, A. J., & Schölkopf, B. (2004). A tutorial on support vector regression. Statistics and Computing, 14(3), 199–222.]] https://doi.org/10.1023/B:STCO.0000035301.49549.88
-este artículo data de los años 2004 y 2007
+este artículo data del año 2004
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/928f0b0f-c3f8-44e0-b22d-e4648f760b33" />
 <img width="276" height="369" alt="image" src="https://github.com/user-attachments/assets/f9311427-8cb5-44b4-834a-20a5e02dcc19" />
 
