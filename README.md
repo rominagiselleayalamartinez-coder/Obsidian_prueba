@@ -26,6 +26,7 @@ Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing E
 * Cecilia Andrea Espinoza Paredes <ceciliaandreaespinozaparedes@gmail.com>
 * Cristhian Kevin Aquize Ledezma <crisskevin4.0@gmail.com>
 * Marcos Cañaviri Riveros <jhonmarcos.bol@gmail.com>
-Jasiel Jimena Sanjines Calatayud <jasielsanjines@gmail.com>
+* Jasiel Jimena Sanjines Calatayud <jasielsanjines@gmail.com>
+* Raul Eduardo Aguilera Z <edduard164@gmail.com>
 
-Última modificación Diego 202509152252
+Última modificación Raul Eduardo 202516091025
