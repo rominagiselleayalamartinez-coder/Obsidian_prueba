@@ -38,7 +38,7 @@ https://books.google.com/ngrams/graph?content=DCS&year_start=1800&year_end=2022&
 La implementación de tecnologías SCADA y DCS en Bolivia representa una oportunidad estratégica para modernizar los sistemas productivos, ya que permiten mayor eficiencia, calidad y control en tiempo real, además de ofrecer trazabilidad y soporte para la toma de decisiones. Sin embargo, su aprovechamiento pleno requiere inversión en capacitación técnica y medidas sólidas de ciberseguridad para evitar riesgos derivados de la interconexión digital. Si se acompañan de políticas públicas adecuadas y financiamiento, estas herramientas pueden transformar sectores clave como la agroindustria, la energía y el agua, potenciando la competitividad del país en mercados nacionales e internacionales.
 
 ==Arquitectura de sistemas DCS, supervisión remota de procesos industriales. SCADA
-
+**RAFAEL ROBERTO RUIZ MORALES**
 Quien es autores son los mas destacados:
 
 Stuart A. Boyer
@@ -55,6 +55,8 @@ Practical Modern SCADA Protocols: DNP3, 60870.5 and Related Systems, Gordon Clar
 Al menos 1 articulo cientifico del tema Architecture and security of SCADA systems: A review (2021), Geeta Yadav y Kolin Paul [[https://ar5iv.labs.arxiv.org/html/2001.02925?utm_source=chatgpt.com]]
 
 Cual es la Evolucion del tema en el Tiempo
+<img width="1127" height="472" alt="image" src="https://github.com/user-attachments/assets/b88350a5-94d2-4a53-9ec5-772f848a3c27" />
+
 
 evolucion DCS, SCADA RRRM
 Opinion sobre el impacto que esta tecnologia puede tener en Bolivia
