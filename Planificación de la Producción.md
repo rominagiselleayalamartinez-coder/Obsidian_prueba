@@ -98,8 +98,7 @@ También se investigó sobre física de planta y la evolución de este tema a lo
 
 **Opinión sobre los impactos de la planificación de la producción en Bolivia**
 
-En general, en Bolivia existen industrias que aplican las técnicas de planificación de la producción y física de planta, sin embargo, aún sigue siendo empírica en ciertos casos. Se tiene un alto potencial para mejorar procesos en las industrias aplicando estas técnicas, sin embargo, sigue siendo un reto ya que implica inversión en mejorar infraestructura, tecnología, capacitación, mantenimiento, entre otros para mejorar la productividad y eficiencia de las industrias. 
-
+En Bolivia existen industrias que aplican técnicas de planificación de la producción y principios de física de planta; no obstante, en muchos casos estas prácticas aún se desarrollan de manera empírica. El país cuenta con un alto potencial para optimizar sus procesos productivos mediante la implementación sistemática de dichas técnicas, aunque el desafío radica en la necesidad de invertir en infraestructura, tecnología, capacitación, mantenimiento y gestión, aspectos fundamentales para elevar la productividad y la eficiencia industrial.
 
 **Opinión sobre los impactos que puede tener la tecnología SCADA sobre los sistemas productivos de Bolivia**
 
