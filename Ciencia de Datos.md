@@ -7,22 +7,22 @@
 
 Se resumir en las 5V
 
-·        Volumen → enormes cantidades de datos (terabytes, petabytes).
-·        Velocidad → datos que llegan en tiempo real o muy rápido (ej. redes sociales, sensores IoT).
-·        Variedad → datos estructurados (tablas), no estructurados (texto, imágenes, videos) y semiestructurados (JSON, XML).
-·        Veracidad → calidad y confiabilidad de los datos.
-·        Valor → capacidad de convertir esos datos en conocimiento útil.
+· Volumen → enormes cantidades de datos (terabytes, petabytes).
+· Velocidad → datos que llegan en tiempo real o muy rápido (ej. redes sociales, sensores IoT).
+· Variedad → datos estructurados (tablas), no estructurados (texto, imágenes, videos) y semiestructurados (JSON, XML).
+· Veracidad → calidad y confiabilidad de los datos.
+· Valor → capacidad de convertir esos datos en conocimiento útil.
 
 **Definición Ciencia de Datos (Data Science):** La ciencia de datos es la disciplina que combina estadística, matemáticas, programación e inteligencia artificial para extraer conocimiento y generar valor a partir de los datos (incluyendo big data).
 
 Se enfoca en el ciclo de vida del dato:
 
-·        Recolección (capturar datos).
-·        Limpieza y preparación (eliminar errores, duplicados, inconsistencias).
-·        Análisis exploratorio (buscar patrones y tendencias).
-·        Modelado predictivo y descriptivo (machine learning, IA).
-·        Visualización y comunicación (dashboards, reportes claros).
-·        Toma de decisiones basada en datos.
+· Recolección (capturar datos).
+· Limpieza y preparación (eliminar errores, duplicados, inconsistencias).
+· Análisis exploratorio (buscar patrones y tendencias).
+· Modelado predictivo y descriptivo (machine learning, IA).
+· Visualización y comunicación (dashboards, reportes claros).
+· Toma de decisiones basada en datos.
 
 **Big Data vs Ciencia de Datos**
 
