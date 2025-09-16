@@ -21,6 +21,7 @@ Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing E
 * Sergio Armijo Cabrerizo <armix756@gmail.com>
 * Estefanía Montero Cano <estefania.montero@ucb.edu.bo>
 * Diego Villarroel Sanabria <dievilsan@gmail.com>
+* Daniela Vargas Doria Medina <danidmvargas@gmail.com>
   
 
-Última modificación Diego 202509152129
+Última modificación Diego 202509152135
