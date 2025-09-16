@@ -1,20 +1,17 @@
 
-## (Lean Manifacturing)
+# Manofactura Esbelta 
 
+Ninel Noelia Fernandez Marañon  <noelia.maranon98@gmail.com>
 
-==Herramientas Lean (Kaizen, Just-in-Time),
+##Introduccion 
+Herramientas Lean (Kaizen, Just-in-Time),
 mapeo de cadena de valor, reducción de
 desperdicios.==
 ## Manufactura
-```markdown
 # Resumen del Estudio: Implementación de la Manufactura Esbelta en Sonora
-
 ## 1. Quién es el autor destacado?
-
 El estudio hace referencia a varios autores clave en el campo de la Manufactura Esbelta (ME). **James P. Womack y Daniel T. Jones** son particularmente destacados, ya que se les atribuye la **introducción del concepto y el cuerpo teórico de la ME a Occidente en la década de 1990**. Su obra, junto con la de otros como Jeffrey K. Liker, forma la base del pensamiento esbelto.
-
-## 2. ¿Qué libro es el más leído?
-
+## 2. ¿Qué libro es el más leído
 Aunque el documento no especifica "el más leído", **"Lean Thinking: Cómo utilizar el pensamiento Lean para eliminar los despilfarros y crear valor en la empresa" de Jones y Womack (2012)** es una obra fundamental que introdujo el concepto de la Manufactura Esbelta y su cuerpo teórico a Occidente. Se le menciona como una referencia clave para entender la adopción de prácticas y técnicas de ME. Otro libro relevante mencionado es **"The Toyota Way Fieldbook" de Liker y Meier (2006)**, que identifica los siete tipos de desperdicios.
 
 ## 3. Al menos 1 artículo científico que hable del tema
