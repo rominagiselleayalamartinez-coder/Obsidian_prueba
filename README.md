@@ -30,4 +30,4 @@ Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing E
 * Raul Eduardo Aguilera Z <edduard164@gmail.com>
 * Boris Ramirez Chumacero <bramirez@ucb.edu.bo>
 
-Última modificación Raul Eduardo 202516091025
+Última modificación Boris Ramirez 202516091403
