@@ -32,7 +32,11 @@ Palabras clave: Gemelo Digital, Automática, Observadores y predictores, Sistema
 
 <img width="927" height="514" alt="image" src="https://github.com/user-attachments/assets/477cd03a-9faa-4006-b137-43f7e3a88a22" />
 
+## Aporte en mi carrera profesional, así como el impacto que tendría en Bolivia ##
 
+Nuestra empresa Ferraso SRL, es una empresa de servicios electromecanicos en la industria. Los digital twins tendría un impacto para proyectos de ingeniería, permitiría diseñar, probar y validar virtualmente las instalaciones electromecánicas antes de su implementación física, asegurando el éxito y evitando reprocesos. 
+
+En mi carrera profesional tendria que ver con el denominado CAD ( diseño asistido por computadora)
 
 
 
