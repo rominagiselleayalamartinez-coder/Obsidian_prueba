@@ -3,10 +3,6 @@
 ==Redes neuronales, deep learning, aplicaciones
 de IA en procesos industriales.==
 
-## (AI para la Industria)
-
-==Redes neuronales, deep learning, aplicaciones
-de IA en procesos industriales.==
 
 # - 1. **Que libro es el más leído y el autor mas destacado
 
