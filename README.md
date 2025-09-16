@@ -6,7 +6,7 @@ Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing E
 
 * Romina Giselle Ayala Martinez <romiayalacontacto@gmail.com>
 * Boris <boris.alvarez.jimenez@gmail.com>
-* Mariana <marianabedoyabarrero@gmail.com>
+* Mariana Bedoya Barrero <marianabedoyabarrero@gmail.com>
 * Vidal <viloafer029@gmail.com>
 * Sergio Gabriel Duarte Loza <sergioduarteloza@gmail.com>
 * Marjorie Díaz <marjoriejohanadiazherrera@gmail.com>
