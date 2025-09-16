@@ -199,3 +199,4 @@ Toda esta información, una vez organizada y procesada, puede transformarse en d
 Sin embargo, este avance también conlleva desafíos significativos, exige trabajar con responsabilidad, transparencia y ética, ya que los riesgos asociados a la privacidad, la seguridad de la información pueden tener repercusiones sociales graves si no se gestionan adecuadamente.
 
 Estas innovaciones tecnológicas ameritan que se utilicen en beneficio del bien común, promoviendo la equidad junto al progreso científico y económico.
+En Bolivia, el uso del Big Data aún se encuentra en una etapa incipiente, comparado con países más industrializados.
