@@ -36,7 +36,8 @@ Palabras clave: Gemelo Digital, Automática, Observadores y predictores, Sistema
 
 Nuestra empresa Ferraso SRL, es una empresa de servicios electromecanicos en la industria. Los digital twins tendría un impacto para proyectos de ingeniería, permitiría diseñar, probar y validar virtualmente las instalaciones electromecánicas antes de su implementación física, asegurando el éxito y evitando reprocesos. 
 
-En mi carrera profesional tendria que ver con el denominado CAD ( diseño asistido por computadora)
+En mi carrera profesional tendria que ver con el denominado CAD ( diseño asistido por computadora).
+Porque la industria boliviana necesita modernizarse para ser más competitiva y sostenible. No ser 100 % dependiente de tecnologias y mas bien fortalecer industriales locales como la mineria, agroindustria, alimentos, construcción e hidrocrburos.
 
 
 
