@@ -47,57 +47,57 @@ Se enfoca en el ciclo de vida del dato:
 De la necesidad de procesar y gestionar grandes volúmenes de datos nacen:
 
 ·        **Ingeniería de Datos (Data Engineering)**
-	o   Construcción y mantenimiento de pipelines de datos.
-	o   Tecnologías: Hadoop, Spark, Kafka, bases NoSQL.
+	    Construcción y mantenimiento de pipelines de datos.
+	    Tecnologías: Hadoop, Spark, Kafka, bases NoSQL.
 	
 ·        **Arquitectura de Datos (Data Architecture)**
-	o   Diseño de estructuras y plataformas para almacenar datos masivos en la nube o en sistemas distribuidos.
+	    Diseño de estructuras y plataformas para almacenar datos masivos en la nube o en sistemas distribuidos.
 	
 ·        **Bases de Datos NoSQL y tiempo real**
-	o   MongoDB, Cassandra, Redis, BigQuery.
+	    MongoDB, Cassandra, Redis, BigQuery.
 	
 ·        **Procesamiento de Datos en Tiempo Real (Streaming Data)**
-	o   IoT, sensores, transacciones financieras, redes sociales.
+	    IoT, sensores, transacciones financieras, redes sociales.
 	
 ·        **Gobierno y Ética de Datos (Data Governance)**
-	o   Seguridad, privacidad y cumplimiento normativo (ej: GDPR, LGPD).
+	    Seguridad, privacidad y cumplimiento normativo (ej: GDPR, LGPD).
 
 **Derivados de la Ciencia de Datos**
 
 ·        **Machine Learning (Aprendizaje Automático)**
-	o   Algoritmos que aprenden patrones y hacen predicciones (ej: recomendadores de Netflix).
+	    Algoritmos que aprenden patrones y hacen predicciones (ej: recomendadores de Netflix).
 
 ·        **Deep Learning**
-	o   Redes neuronales profundas, visión computacional, reconocimiento de voz.
+	    Redes neuronales profundas, visión computacional, reconocimiento de voz.
 
 ·        **Inteligencia Artificial Aplicada**
-	o   Chatbots, asistentes virtuales, sistemas expertos.
+	    Chatbots, asistentes virtuales, sistemas expertos.
 
 ·        **Analítica Predictiva y Prescriptiva**
-	o   Predecir qué pasará (predictiva) y recomendar qué hacer (prescriptiva).
+	   Predecir qué pasará (predictiva) y recomendar qué hacer (prescriptiva).
 
 ·        **Minería de Datos (Data Mining)**
-	o   Extracción de patrones ocultos en grandes volúmenes de datos.
+	    Extracción de patrones ocultos en grandes volúmenes de datos.
 
 ·        **Visualización y Comunicación de Datos (Data Visualization / Storytelling)**
-·        Dashboards (Power BI, Tableau), informes ejecutivos.
+        Dashboards (Power BI, Tableau), informes ejecutivos.
 
 **Campos que combinan Big Data + Ciencia de Datos**
 
 ·        **Analítica de Negocios (Business Analytics)**
-	o   Decisiones basadas en datos masivos y modelos estadísticos.
+	    Decisiones basadas en datos masivos y modelos estadísticos.
 
 ·        **Ciencia de Datos en Salud (Health Data Science)**
-	o   Genómica, medicina personalizada, telemedicina.
+	    Genómica, medicina personalizada, telemedicina.
 
 ·        **FinTech y Bancos**
-	o   Detección de fraudes, scoring crediticio, trading algorítmico.
+	    Detección de fraudes, scoring crediticio, trading algorítmico.
 
 ·        **Smart Cities e IoT**
-	o   Transporte inteligente, consumo energético, seguridad ciudadana.
+	    Transporte inteligente, consumo energético, seguridad ciudadana.
 
 ·        **Marketing Digital y Customer Analytics**
-	o   Segmentación avanzada, publicidad personalizada, análisis de sentimientos.
+	    Segmentación avanzada, publicidad personalizada, análisis de sentimientos.
 
 
 ## - ¿Quién es el autor destacado?
@@ -138,8 +138,6 @@ En el ámbito del Big Data, los libros se centran a menudo en las implicaciones 
 
 “El papel del big data en la tecnología financiera hacia la inclusión financiera”_:
 [Fronteras | El papel del big data en la tecnología financiera hacia la inclusión financiera](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1184444/full)
-
-### **Resumen 
 
 **Big Data como pilar en FinTech:**
 
@@ -192,6 +190,12 @@ La **Ciencia de Datos** nace de la evolución de la estadística hacia una cienc
 ·        **2010s** → Auge de **Machine Learning** y **Deep Learning**. Se consolida la profesión de _Data Scientist_.
 ·        **2020s–2025** → Ciencia de Datos integrada con **IA generativa, analítica predictiva/prescriptiva, big data e IoT**, usada en negocios, salud, educación, transporte y gobiernos.
 
-![[Pasted image 20250915203819.png]]
 ## **- Escribir mi opinión sobre que impactos puede tener la tecnología BIG DATO sobre los sistemas productivos de mi país.
 
+Al investigar sobre el avance que ha tenido la Big Data y la Ciencia de Datos, así como la manera en que se ha diversificado su uso en distintas ramas del conocimiento y sectores productivos, resulta evidente su importancia para el desarrollo actual y futuro. El volumen de información que se genera a diario crece de forma exponencial: desde las interacciones en redes sociales y las transacciones financieras, hasta los registros médicos y los datos provenientes de sensores inteligentes.
+
+Toda esta información, una vez organizada y procesada, puede transformarse en datos estructurados y posteriormente en conocimiento útil, constituyendo una base fundamental para la toma de decisiones estratégicas.
+
+Sin embargo, este avance también conlleva desafíos significativos, exige trabajar con responsabilidad, transparencia y ética, ya que los riesgos asociados a la privacidad, la seguridad de la información pueden tener repercusiones sociales graves si no se gestionan adecuadamente.
+
+Estas innovaciones tecnológicas ameritan que se utilicen en beneficio del bien común, promoviendo la equidad junto al progreso científico y económico.
