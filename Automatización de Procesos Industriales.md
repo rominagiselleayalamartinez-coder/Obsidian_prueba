@@ -13,6 +13,7 @@ Richard E. Morley y el Modicon: Richard E. Morley, un inventor que abandonó el 
 Exactamente no existe un ranking oficial sobre los libros mas leídos, pero un alto numero de ingenieros, técnicos  y estudiantes de  automatización en el mundo menciona al libro Programmable Logic controllers (Frank  D.Petruzella) como uno de los libros  mas destacado por su enfoque pedagogico que combina teoría y ejemplos prácticos que facilitan el aprendizaje, también podemos mencionar otras fuentes  muy recomendables como Programmable Logic Controllers: Principles and Applications de John W. Webb y Ronald A. Reis y Automating Manufacturing Systems with PLCs de Hugh Jack. Estos libros, junto con el de Petruzella, han cimentado su reputación como pilares educativos en el mundo de los PLC.
 
 Link: https://www.youtube.com/watch?v=Q4eI0Vd1gt8
+
 ![[Pasted image 20250914232427.png]]
 
 3. ***Enunciar un articulo científico referente al tema PLC***
@@ -28,6 +29,7 @@ Según el análisis de visualización en Google Visor de Libros Ngram; La evoluc
 En los años 90 y el nuevo milenio, el término se estabilizó en un alto nivel, lo que demuestra la madurez de la tecnología y su integración con redes industriales (como Ethernet). Hoy en día, el PLC sigue siendo un pilar de la automatización, evolucionando para integrarse con las tecnologías de la Industria 4.0, como el Internet de las Cosas Industrial (IoT) y la computación en la nube.
 
 ![[Pasted image 20250914225337.png]]
+
 https://books.google.com/ngrams/graph?content=PLC&year_start=1800&year_end=2022&corpus=en&smoothing=3
 
 5. ***Los impactos de la tecnología Controladores lógicos programables (PLC) sobre los sistemas Productivos Bolivia.***
@@ -49,6 +51,7 @@ En sectores clave para la economía boliviana como la minería, el petróleo y l
 **Referido al temas Sensores Industriales.-**
 
 Ramón Pallás Areny: Su libro "Sensores y Acondicionadores de Señal" es una obra de referencia en el mundo de la ingeniería. Cubre los fundamentos de los sensores, los principios de transducción y el acondicionamiento de señales, siendo un texto esencial para ingenieros y estudiantes.
+
 Jacob Fraden: Es el autor de "Handbook of Modern Sensors: Physics, Designs, and Applications", una obra enciclopédica que detalla la física, el diseño y las aplicaciones de una amplia gama de sensores modernos, desde los más básicos hasta los más complejos.
 
 2. ***¿Qué libro es el mas leído?***
@@ -89,6 +92,7 @@ Basado en la historia y la aplicación de este sistema, la frecuencia de la pala
 El gráfico de Google Ngram refleja este aumento en el uso del término a medida que los sistemas SCADA  hasta finales del año 2022 se integraron en la industria 4.0, lo que demuestra su creciente importancia en la optimización de recursos y la toma de decisiones basada en datos.
 
 Link de acceso: https://books.google.com/ngrams/graph?content=scada&year_start=1800&year_end=2022&corpus=en&smoothing=3
+
 ![[Pasted image 20250915210131.png]]
 
 El término "sensor industrial" muestra un aumento significativo en su uso, especialmente a partir de mediados del siglo XX. Esto se debe a la evolución de los sensores de simples dispositivos analógicos a componentes esenciales para la automatización y el control en las fábricas.
@@ -98,6 +102,7 @@ El gran pico en su uso coincide con la llegada del Internet de las Cosas (IoT) y
 Link de acceso: https://books.google.com/ngrams/graph?content=industrial+sensor&year_start=1800&year_end=2022&corpus=en&smoothing=3
 
 ![[Pasted image 20250915211733.png]]
+
 5. ***Los impactos de la tecnología ESCADA y Sensores Industriales sobre los sistemas Productivos Bolivia.***
 
 Desde un perspectiva global y basándonos en los datos recopilados podemos argumentar que la implementación de estas tecnologías pueden ofrecer efectos positivos potenciales, como también un cierto grado de barreras en su implementación como tales:
