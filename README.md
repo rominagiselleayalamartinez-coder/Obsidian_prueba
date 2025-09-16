@@ -23,7 +23,7 @@ Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing E
 * Diego Villarroel Sanabria <dievilsan@gmail.com>
 * Daniela Vargas Doria Medina <danidmvargas@gmail.com>
 * Carmrn Rosa Arce Lagos <carmenrosa2017@gmail.com>
-* Cecilia Andrea Espinoza Paredes <ceciliaandreaespinozaparedes>
+* Cecilia Andrea Espinoza Paredes <ceciliaandreaespinozaparedes@gmail.com>
   
 
 Última modificación Diego 202509152135
