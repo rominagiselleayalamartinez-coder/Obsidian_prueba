@@ -35,6 +35,9 @@ Six Sigma no reemplazó la TQM, sino que la perfeccionó al añadir una **discip
 | **Liderazgo** | Involucramiento de todos los empleados.               | **Liderazgo de arriba hacia abajo**, con roles de expertos (Black Belts) para dirigir proyectos. |
 
 
+<img width="1680" height="765" alt="image" src="https://github.com/user-attachments/assets/44dcd953-d11a-412a-90e8-fbcfabd897af" />
+
+
 ### **Fuentes que Describen esta Evolución**
 
 1. **"The Six Sigma Way: How GE, Motorola, and Other Top Companies Are Honing Their Performance"** de Peter S. Pande, Robert P. Neuman y Roland R. Cavanagh
