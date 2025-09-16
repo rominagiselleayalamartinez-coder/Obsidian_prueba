@@ -10,6 +10,9 @@ Alumno: Boris Ramirez Chumacero
 Tao, F., Zhang, M., & Nee, A. Y. C. (2019). Digital Twin Driven Smart Manufacturing. Academic Press.
 
 Es muy citado, especialmente en manufactura inteligente y en temas ligados a Industry 4.0. 
+<img width="214" height="254" alt="image" src="https://github.com/user-attachments/assets/daf656e7-1526-468f-80f6-422b328b5072" />
+
+
 
 ## EL LIBRO MAS VENDIDO EN REFRENCI A DIGITAL TWINS ##
 
