@@ -27,3 +27,9 @@ Palabras clave: Gemelo Digital, Automática, Observadores y predictores, Sistema
 
 ## LA EVOLUCION A LO CARGO DEL TIEMPO ##
 
+<img width="927" height="514" alt="image" src="https://github.com/user-attachments/assets/477cd03a-9faa-4006-b137-43f7e3a88a22" />
+
+
+
+
+
