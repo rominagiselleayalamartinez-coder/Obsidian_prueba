@@ -136,7 +136,7 @@ En el ámbito del Big Data, los libros se centran a menudo en las implicaciones 
 
 ## **- Al menos 1 artículo científico que hable del tema**
 
-_“El papel del big data en la tecnología financiera hacia la inclusión financiera”_:
+“El papel del big data en la tecnología financiera hacia la inclusión financiera”_:
 [Fronteras | El papel del big data en la tecnología financiera hacia la inclusión financiera](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1184444/full)
 
 ### **Resumen 
