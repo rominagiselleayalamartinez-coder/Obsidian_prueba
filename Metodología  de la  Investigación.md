@@ -93,3 +93,6 @@ La metodología de la investigación es importante en todas las universidades de
 En el sector productivo, la metodología de la investigación sirve para mejorar semillas, ingertos, sistemas de riego, manejo de suelos, entre otros. 
 
 En general, la metofología de la investigación es importante a nivel global ya que el mismo es la estructura para poder lograr estudios de campo en diferentes áreas, desde el área productiva, hasta el área de salud.
+
+
+AUTOR: Jerlin Garcia Calle 202509151930
