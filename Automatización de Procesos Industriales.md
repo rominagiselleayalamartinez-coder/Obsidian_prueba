@@ -1,6 +1,6 @@
 
 **Controladores lógicos programables (PLC)**
-
+Nombre:AGUILERA ZEMA RAUL EDUARDO
 
 1. ***¿Quién es el Autor destacado?***
 
