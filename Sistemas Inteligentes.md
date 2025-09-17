@@ -1,3 +1,5 @@
+De: Alumna Jasiel Sanjines
+
 ## (AI para la Industria)
 
 ==Redes neuronales, deep learning, aplicaciones
