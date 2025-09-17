@@ -1,4 +1,6 @@
 ==Arquitectura de sistemas DCS, supervisión remota de procesos industriales. SCADA
+
+
 **RAFAEL ROBERTO RUIZ MORALES**
 Quien es autores son los mas destacados:
 
