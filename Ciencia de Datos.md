@@ -1,5 +1,6 @@
 ### CIENCIA DE DATOS - BIG DATA
 ### Big Data
+Realizado por: Carmen Rosa Arce Lagos <carmenrosa2017@gmail.com>
 
 ## Introducción
 
