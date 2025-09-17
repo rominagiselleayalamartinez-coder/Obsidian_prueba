@@ -4,6 +4,8 @@
 estadísticas (SPC), gestión de calidad total
 (TQM).==
 
+**Editado Por Agustin G. Apaza Silvestre**
+
 ## Libro más consultado sobre calidad total Six Sigma y Control Estadístico
 
 **The Certified Six Sigma Black Belt Handbook"** de ***Thomas P. Kubiak y Donald W. Benbow***
