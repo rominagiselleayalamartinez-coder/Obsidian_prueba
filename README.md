@@ -9,7 +9,7 @@ Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing E
 * Mariana Bedoya Barrero <marianabedoyabarrero@gmail.com>
 * Vidal <viloafer029@gmail.com>
 * Sergio Gabriel Duarte Loza <sergioduarteloza@gmail.com>
-* Marjorie Díaz <marjoriejohanadiazherrera@gmail.com>
+* Marjorie Johana Díaz Herrera <marjoriejohanadiazherrera@gmail.com>
 * Daniela Artero Salas <daniela.artero@ucb.edu.bo>
 * Andrea Mejía Adriázola <amejia.va@gmail.com>
 * Agustin Gregorio Apaza Silvestre
