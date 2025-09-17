@@ -123,3 +123,6 @@ Desde un perspectiva global y basándonos en los datos recopilados podemos argum
 ==**Mejora de la Seguridad:**== En entornos peligrosos como la minería o las plantas de procesamiento de gas, los sistemas SCADA y los sensores pueden detectar fallas o condiciones de riesgo (fugas de gas, sobrecalentamiento) de manera inmediata. Esto permite una respuesta automatizada o remota, protegiendo la vida de los trabajadores y previniendo accidentes.
 
 ==**Optimización de Costos Operativos:**== Al tener un monitoreo continuo, las empresas pueden realizar un mantenimiento predictivo en lugar de correctivo. Esto significa que los componentes se reparan antes de que fallen, lo que reduce el tiempo de inactividad de la producción y los costos asociados a averías inesperadas.
+
+**Realizado por; Raul Eduardo Aguilera Zema**
+
