@@ -1,5 +1,7 @@
 # Tópicos actuales de logística
 
+#### **Nombre:** Daniela Vargas Doria Medina
+
 ## Introducción.
 No se puede iniciar hablando de tópicos actuales de logística sin hablar de la revolución 4.0 y todos los cambios quue trajó consigo.
 El presente acápite hablare de 3 temáticas principales, logistica 4.0, logística verde, última milla en la evolción del comercio electrónico. Cada uno de estos temás tendrá la descripción de autor destacado, libro más leido,artículo científico más representativo, evolución a lo largo del tiempo y una opinión propia del impacto productivo en nuestro país.
