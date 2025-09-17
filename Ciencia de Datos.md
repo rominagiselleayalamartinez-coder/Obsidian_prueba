@@ -164,33 +164,44 @@ El uso de Big Data mejora la precisión de los modelos crediticios y abre acceso
 ·        Necesidad de infraestructura tecnológica adecuada.
 ·        Importancia de marcos regulatorios y éticos sólidos.
 
-## **- ¿Cuál es la evolución a lo largo del tiempo del tema?
+## **- ¿Cuál es la evolución a lo largo del tiempo del tema?**
 
 La **Ciencia de Datos** nace de la evolución de la estadística hacia una ciencia empírica en los 60s, se formaliza en los 70s–2000s como disciplina autónoma, y hoy en día es una de las áreas más influyentes para generar **conocimiento aplicado y decisiones basadas en datos**.
 
-![[Pasted image 20250915204940.png]]
 
 **Evolución del Big Data**
 
 ·        **1940s–1960s** → Primeras computadoras, cintas magnéticas y discos duros.
+
 ·        **1970s** → Edgar F. Codd desarrolla el modelo relacional (SQL).
+
 ·        **1990s** → Auge de internet y data warehouses. Aparece el término _Big Data_.
+
 ·        **2000s** → Google desarrolla MapReduce → nace Hadoop. Doug Laney define las 3V (Volumen, Velocidad, Variedad).
+
 ·        **2010s** → Redes sociales, smartphones e IoT generan explosión de datos. Se amplía a 5V (Veracidad y Valor).
+
 ·        **2020s–2025** → Big Data integrado con IA, computación en la nube, blockchain e IoT, consolidándose como base de la economía digital.
 
 **Evolución de la Ciencia de Datos**
 
 ·        **1962** → John W. Tukey publica _The Future of Data Analysis_: plantea que el análisis de datos debe asumirse como una ciencia empírica.
+
 ·        **1974** → Peter Naur acuña el término “Data Science”.
+
 ·        **1977** → Fundación de la **International Association for Statistical Computing (IASC)**.
+
 ·        **1990s** → Expansión de minería de datos y herramientas estadísticas (SAS, R, MATLAB).
+
 ·        **2001** → William S. Cleveland define la **Ciencia de Datos** como disciplina independiente.
+
 ·        **2002** → Primera revista especializada: _Data Science Journal_.
+
 ·        **2010s** → Auge de **Machine Learning** y **Deep Learning**. Se consolida la profesión de _Data Scientist_.
+
 ·        **2020s–2025** → Ciencia de Datos integrada con **IA generativa, analítica predictiva/prescriptiva, big data e IoT**, usada en negocios, salud, educación, transporte y gobiernos.
 
-## **- Escribir mi opinión sobre que impactos puede tener la tecnología BIG DATO sobre los sistemas productivos de mi país.
+## **- Escribir mi opinión sobre que impactos puede tener la tecnología BIG DATO sobre los sistemas productivos de mi país**
 
 Al investigar sobre el avance que ha tenido la Big Data y la Ciencia de Datos, así como la manera en que se ha diversificado su uso en distintas ramas del conocimiento y sectores productivos, resulta evidente su importancia para el desarrollo actual y futuro. El volumen de información que se genera a diario crece de forma exponencial: desde las interacciones en redes sociales y las transacciones financieras, hasta los registros médicos y los datos provenientes de sensores inteligentes.
 
@@ -198,4 +209,6 @@ Toda esta información, una vez organizada y procesada, puede transformarse en d
 
 Sin embargo, este avance también conlleva desafíos significativos, exige trabajar con responsabilidad, transparencia y ética, ya que los riesgos asociados a la privacidad, la seguridad de la información pueden tener repercusiones sociales graves si no se gestionan adecuadamente.
 
-Estas innovaciones tecnológicas ameritan que se utilicen en beneficio del bien común, promoviendo la equidad junto al progreso científico y económico.
+Estas innovaciones tecnológicas ameritan que se utilicen en beneficio del bien común, promoviendo la equidad junto al progreso científico y económico. 
+
+En Bolivia aún son incipientes, pero hay importantes desarrollos en la Banca y entidades financieras del país, por mi experiencia también se evidencia en la recaudación de impuestos a traves del Servicios de Impuestos Nacionales. Mi país cuenta con un gran potencial para el desarrollo de estas herramientas, aunque todavía enfrentamos retos para consolidar su aplicación plena.
