@@ -33,4 +33,5 @@ Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing E
 * Rafael Roberto Ruiz Morales <rafo.ruizmo@gmail.com>
 * Romer Israel Cachaca Alcon <romerisra@gmail.com>
 * ESPINOZA MELENDREZ SAMUEL OSVALDO <samuel.espinoza.me@gmail.com>
+* Josue David Cachi Vargas  <josuesito1503@gmail.com> 
 
