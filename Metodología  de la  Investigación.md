@@ -1,4 +1,5 @@
 # METODOLOGÍA DE LA INVESTIGACIÓN
+JERLIN GARCIA CALLE jerlingarciac@gmail.com
 
 La metodología de la investigación es el conjunto de enfoques, métodos, técnicas y procedimientos que guían la producción de conocimiento científico con rigor, validez y confiabilidad. En el ámbito iberoamericano se ha consolidado un corpus pedagógico que integra rutas cuantitativa, cualitativa y mixta, facilitando la formación universitaria y la práctica profesional en múltiples disciplinas. Entre los manuales y tratados más influyentes se encuentran las obras de *Hernández Sampieri* en español y *Creswell & Plano Clark* en inglés, ampliamente adoptadas en cursos de grado y posgrado.
 
