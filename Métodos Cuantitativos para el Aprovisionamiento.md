@@ -14,7 +14,7 @@ Inventory Management and Production Planning and Scheduling — Edward A. Silver
 
 c) Artículo científico que hable del tema 
 
-Un artículo-revisión reciente: “Economic order quantity: A State-of-the-Art in the Era of Uncertain …” (MDPI, 2024) — revisión moderna sobre EOQ, extensiones y su uso frente a incertidumbre; útil para ver desarrollos recientes y aplicaciones con simulación y EOQ estocástico. 
+Un artículo-revisión reciente: “Economic order quantity: A State-of-the-Art in the Era of Uncertain …” (MDPI, 2024) — revisión moderna sobre EOQ, extensiones y su uso frente a incertidumbre; útil para ver desarrollos recientes y aplicaciones con simulación y EOQ estocástico. https://www.mdpi.com/2071-1050/16/14/5965?utm_source=chatgpt.com
 
 d) ¿Cuál es la evolución en el tiempo del tema?
 
