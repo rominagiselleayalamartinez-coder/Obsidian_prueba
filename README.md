@@ -31,5 +31,5 @@ Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing E
 * Boris Ramirez Chumacero <bramirez@ucb.edu.bo>
 * Adrian Esprella Rivera <adrianesprella78@gmail.com>
 * Rafael Roberto Ruiz Morales <rafo.ruizmo@gmail.com>
-
+* Romer Israel Cachaca Alcon <romerisra@gmail.com>
 Última modificación Rafael Ruiz 202516091955
