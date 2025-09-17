@@ -1,4 +1,5 @@
-Autora: Deybbie Carla Ponce Guzmán
+# Tema : Robótica Industrial
+Realizado por : Deybbie Carla Ponce Guzmán
 # Autor destacado
 
 ## Mikell P. Groover
